@@ -5,6 +5,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ncbJQbQ45IlC4w8acrQSDgHaHa&pid=Api&P=0&w=400&h=400" group-title=" Canales", América TV | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ncbJQbQ45IlC4w8acrQSDgHaHa&pid=Api&P=0&w=400&h=400" group-title=" Canales", América TV | PE
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC?format=jpg&name=medium" group-title="Deportes", Liga 1 | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92234
