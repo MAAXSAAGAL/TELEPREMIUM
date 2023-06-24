@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/250px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Peru",Latina TV - PE
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/40375
+#
