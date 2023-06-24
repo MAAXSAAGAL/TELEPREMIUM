@@ -34,6 +34,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="KIDS", Cartoon Network, HD
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="KIDS", Nick HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30365
+
 
 #EXTINF:-1 group-title="DOCUMENTALES",HBO Family | - FAM
 http://138.197.148.50/channel/get.php?id=353134204c41543a2048424f2046616d696c79204844&type=master.m3u8
