@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", - NEXFLIX -
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", - PRIME VIDEO -
+
+*****************************
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Nacionales"
+
+#EXTINF:-1 tvg-name="Latina TV HD | PE" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Canales Nacionales, Latina TV HD | PE
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
