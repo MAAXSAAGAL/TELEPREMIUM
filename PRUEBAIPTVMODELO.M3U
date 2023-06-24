@@ -10,9 +10,6 @@ https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/Picsart_23-06-24_1
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Nacionales"
 
-#EXTINF:-1 tvg-name="Latina TV HD | PE" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Canales Nacionales", Latina TV HD | PE
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-
 EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Canales Nacionales", Latina TV | PE
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
