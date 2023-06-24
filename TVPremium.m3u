@@ -2,19 +2,18 @@
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Canales", Latina TV | PE
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ncbJQbQ45IlC4w8acrQSDgHaHa&pid=Api&P=0&w=400&h=400" group-title=" Canales", América TV | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC?format=jpg&name=medium" group-title="Deportes", Liga 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC?format=jpg&name=medium" group-title="Deportes", Liga 1 | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92234
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.Liga1Max-Peru.png.50f237f898706b47b88befa83158ec2f.png" group-title="Deportes", Liga 1 Max
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.Liga1Max-Peru.png.50f237f898706b47b88befa83158ec2f.png" group-title="Deportes", Liga 1 Max | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92233
 
 
-#EXTINF:-1 group-title="Series",HBO FAMILY - FAMILIA
+#EXTINF:-1 group-title="Documentales",HBO Family | - FAMILIA
 http://138.197.148.50/channel/get.php?id=353134204c41543a2048424f2046616d696c79204844&type=master.m3u8
 
 
