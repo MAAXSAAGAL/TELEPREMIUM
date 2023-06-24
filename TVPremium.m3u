@@ -30,6 +30,8 @@ KIDS
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="KIDS", Disney Channel HD
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png" group-title="KIDS", Nick Junior , HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="KIDS", Cartoon Network, HD
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
 
