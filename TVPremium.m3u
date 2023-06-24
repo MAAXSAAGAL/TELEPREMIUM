@@ -1,12 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Peru", Latina TV | PE
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-#EXTINF:-1 <channel id="194dtv.pe"> tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title=" Canales", América TV | PE
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title=" Canales", América TV | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ncbJQbQ45IlC4w8acrQSDgHaHa&pid=Api&P=0&w=400&h=400" group-title=" Canales", América TV | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Peru", Latina TV | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92234
@@ -14,7 +17,7 @@ http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92234
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max | PE
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92233
 
-#EXTINF:-1 tvg-logo="https.png" group-title="Deportes", ESPN VIVO HD | AR
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--whe17geU2M/UTJ_W_hp6gI/AAAAAAAAOCc/Ulf9chWZD8g/s1600/Logo+ESPN+VIVO+By+Bauti.png" group-title="Deportes", ESPN VIVO HD | AR
 http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https.png" group-title="Deportes", ESPN 2 HD | AR
 http://45.166.92.22:58001/play/a01i/index.m3u8
