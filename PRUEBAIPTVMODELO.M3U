@@ -12,3 +12,11 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD | PE
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
+
+#EXTINF:-1 tvg-name="Latina TV HD | PE" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Deportes", Latina TV HD | PE
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Deportes", ATV HD | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
