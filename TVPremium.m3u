@@ -140,16 +140,20 @@ http://204.199.120.34:16123/play/ch26
 
 
 KIDS
+
 #EXTINF:-1 group-title="Kids", Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Kids", Disney Channel HD
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="KIDS", Nick Junior SD
-http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="Kids", Nick Junior SD
+http://51.222.43.170:8001/cristiancl/cirtianiptv/238049
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network HD
 http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Kids", Nick HD
-http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30365
+http://51.222.43.170:8001/series/cristiancl/cirtianiptv/312780.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Kids", Teen Nick 
+http://51.222.43.170:8001/cristiancl/cirtianiptv/152
 
 
 
