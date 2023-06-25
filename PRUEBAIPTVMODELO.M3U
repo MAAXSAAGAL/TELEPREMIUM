@@ -38,5 +38,17 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Deportes", ESPN 2| PE
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
+KIDS
+#EXTINF:-1 group-title="KIDS", Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="KIDS", Disney Channel HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="KIDS", Nick Junior SD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="KIDS", Cartoon Network HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="KIDS", Nick HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30365
+
 
 
