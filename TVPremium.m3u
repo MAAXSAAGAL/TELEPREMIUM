@@ -64,6 +64,9 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/304163
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes",  ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes",  ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Deportes", ESPN 2
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
