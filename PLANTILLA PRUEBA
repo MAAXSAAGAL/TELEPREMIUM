@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Peru", Latina TV | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title=" Canales", América TV | PE
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ncbJQbQ45IlC4w8acrQSDgHaHa&pid=Api&P=0&w=400&h=400" group-title=" Canales", América TV | PE
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/2301
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Peru", Latina TV | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png", ATV HD | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 | PE
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92234
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max | PE
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/92233
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--whe17geU2M/UTJ_W_hp6gI/AAAAAAAAOCc/Ulf9chWZD8g/s1600/Logo+ESPN+VIVO+By+Bauti.png" group-title="Deportes", ESPN VIVO HD | AR
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" group-title="Deportes", ESPN 2 HD | AR
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https.png" group-title="Deportes", ESPN 3 HD | AR
+http://45.166.92.22:58001/play/a01h/index.m3u8
+
+
+KIDS
+#EXTINF:-1 group-title="KIDS", Discovery Kids, HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="KIDS", Disney Channel HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="KIDS", Nick Junior | SD , HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="KIDS", Cartoon Network, HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="KIDS", Nick HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30365
+
+
+#EXTINF:-1 group-title="DOCUMENTALES",HBO Family | - FAM
+http://138.197.148.50/channel/get.php?id=353134204c41543a2048424f2046616d696c79204844&type=master.m3u8
+
+
+MOVIES
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Transformers 7: El despertar de la bestia (2023) | Estreno
+https://vd370.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1687582366924&srcIp=132.251.0.118&srcAg=CHROME_ANDROID&ms=45.136.22.75&type=4&sig=vEg8JyLvXG4&ct=8&urls=185.226.52.60&clientType=0&id=4887976020596
+
+
+MOVIES
+#EXTINF:0 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:0 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/06/Transformers_El_despertar_de_las_bestias_poster_usa-216x300.jpeg" group-title="Movies", Toronto | Comedia
+https://ia601405.us.archive.org/17/items/toronto-comedia.mp4/toronto-comedia.mp4.mp4
+
