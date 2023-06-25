@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere Netflix
+https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/TVPremium.m3u
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere Prime
+https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/Picsart_23-06-24_17-06-00-321.png
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO Max
+https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/Picsart_23-06-24_17-06-00-321.png
+
+*****************************
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Nacionales"
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="Canales Nacionales", Latina TV | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV | PE
+http://51.222.43.170:8001/cristiancl/cirtianiptv/1347
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/TV_Per%C3%BA_2021.svg/revision/latest?cb=20211006200828&path-prefix=es" group-title="Canales Nacionales", TV Perú HD | PE
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
+
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 | PE
+http://51.222.43.170:8001/cristiancl/cirtianiptv/304161
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max | PE
+http://51.222.43.170:8001/cristiancl/cirtianiptv/304163
+
+#EXTINF:-1 tvg-name="Latina TV HD | PE" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Deportes", ESPN HD | PE
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Deportes", ESPN 2| PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+
+KIDS
+#EXTINF:-1 group-title="KIDS", Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="KIDS", Disney Channel HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30327
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="KIDS", Nick Junior SD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/38679
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="KIDS", Cartoon Network HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30316
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="KIDS", Nick HD
+http://xcm.budtv-ultra.com:25461/JW2WBOndemand/d8rQEH2h4E/30365
+
