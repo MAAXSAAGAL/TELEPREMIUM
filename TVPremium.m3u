@@ -37,6 +37,9 @@ http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=mas
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Canales Internacionales", HBO 2 
 http://138.197.148.50/channel/get.php?id=353133204c41543a2048424f2032204844&type=master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.menaherald.com/sites/menaherald.com/files/styles/node_default/public/migrate-posts/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%86%D9%88%D9%86-16_9.jpg" group-title="Canales Internacionales", FX HD
+http://138.197.148.50/channel/get.php?id=333137204c41543a204658204844&type=master.m3u8
+
 
 DEPORTES
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
