@@ -27,6 +27,16 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa HD | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
+CANALES INTERNACIONALES
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Canales Internacionales", Space HD
+http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="Canales Internacionales", HBO
+http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=master.m3u8
+
+
+
 DEPORTES
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
 
