@@ -42,6 +42,8 @@ http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Canales Internacionales", TNT HD
 http://138.197.148.50/channel/get.php?id=333431204c41543a20544e54&type=master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/351bb787-2478-4d55-89d9-9ca34b475a4c_m.jpg" group-title="Canales Internacionales", Universal Channel
+http://138.197.148.50/channel/get.php?id=353235204c41543a20556e6976657273616c205456&type=master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Canales Internacionales", Cinemax
 http://138.197.148.50/channel/get.php?id=353033204c41543a2043696e656d6178204844&type=master.m3u8
