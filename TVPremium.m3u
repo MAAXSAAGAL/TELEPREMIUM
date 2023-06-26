@@ -49,6 +49,9 @@ Peliculas y series en vivo
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Películas y series en vivo", AXN
 http://51.222.43.170:8001/cristiancl/cirtianiptv/90
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC
+http://51.222.43.170:8001/cristiancl/cirtianiptv/37
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y series en vivo", Universal TV
 http://138.197.148.50/channel/get.php?id=353235204c41543a20556e6976657273616c205456&type=master.m3u8
 
