@@ -70,16 +70,16 @@ http://138.197.148.50/channel/get.php?id=353033204c41543a2043696e656d6178204844&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas y series en vivo", Sony
 http://138.197.148.50/channel/get.php?id=333332204c41543a20536f6e79&type=master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y series en vivo", Star Channel
+http://51.222.43.170:8001/cristiancl/cirtianiptv/50
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
 http://138.197.148.50/channel/get.php?id=353037204c41543a20476f6c64656e&type=master.m3u8
-
-
-Canales Internacionales
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y series en vivo", HBO
 http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Canales Internacionales", HBO 2 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO 2 
 http://138.197.148.50/channel/get.php?id=353133204c41543a2048424f2032204844&type=master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Canales Internacionales",  HBO Family
@@ -96,8 +96,7 @@ ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Entretenimiento", Star Channel
-http://51.222.43.170:8001/cristiancl/cirtianiptv/50
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Entretenimiento", El Trece HD
 http://51.222.43.170:8001/cristiancl/cirtianiptv/240910
