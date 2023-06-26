@@ -96,6 +96,9 @@ ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="Entretenimiento", Food Network
+http://51.222.43.170:8001/cristiancl/cirtianiptv/46
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento",  TLC 
 http://204.199.120.34:16123/play/ch26
 
