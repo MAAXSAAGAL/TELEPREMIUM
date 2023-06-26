@@ -187,6 +187,20 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/203599
 http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
 
 
+Películas
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula" Netflix, Amor al Cuadrado Otra Vez (2023)
+http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/304229.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula", Amor al Cuadrado Otra Vez (2023)
+http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/304229.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Pelicula", 7th Secret (2022)
+http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
+
+
+
+
 Series
 
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
