@@ -186,21 +186,23 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/203599
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="Maratón", 24 Horas - Plim Plim
 http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
 
-
 Películas
 
 - Romanticas
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula - Romance", Amor al cuadrado otra vez (2023)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Peliculas - Romance", Amor al cuadrado otra vez (2023)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/304229.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Eres_tau-240573824-large.jpg" group-title="Pelicula - Romance", Eres tú (2023)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Eres_tau-240573824-large.jpg" group-title="Peliculas - Romance", Eres tú (2023)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/305888.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="Pelicula - Romance", Querido David (2023)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="Peliculas - Romance", Querido David (2023)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/303995.mkv
 
 - Suspenso
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Pelicula - Suspenso", 7th Secret (2022)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Peliculas - Suspenso", 7th Secret (2022)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
 
+- Terror
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_monja-167259563-large.jpg" group-title="Peliculas - Terror", La monja (2018)
+http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/19735.mp4
 
 
 
