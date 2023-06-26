@@ -34,14 +34,6 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa HD | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
-CANALES INTERNACIONALES
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
-http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E
-http://51.222.43.170:8001/cristiancl/cirtianiptv/289425
-
 NOTICIAS INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6c5d6466-2ab2-4bf7-9e4d-79b156e08823-profile_image-150x150.png" group-title="Noticias Internacionales", Mega Noticias HD | CL
 http://51.222.43.170:8001/cristiancl/cirtianiptv/252902
@@ -49,10 +41,19 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/252902
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png" group-title="Noticias Internacionales", 247 Noticias HD | AR
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 HD | AR
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
+Peliculas y series en vivo
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
+http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E
+http://51.222.43.170:8001/cristiancl/cirtianiptv/289425
+
 ordenar
+Canales Internacionales
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Canales Internacionales", TNT HD
 http://138.197.148.50/channel/get.php?id=333431204c41543a20544e54&type=master.m3u8
