@@ -92,6 +92,8 @@ http://138.197.148.50/channel/get.php?id=353137204c41543a2048424f20506c757320484
 http://138.197.148.50/channel/get.php?id=333137204c41543a204658204844&type=master.m3u8
 
 ENTRETENIMIENTO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
+http://51.222.43.170:8001/cristiancl/cirtianiptv/57
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
 http://51.222.43.170:8001/cristiancl/cirtianiptv/252504
 
