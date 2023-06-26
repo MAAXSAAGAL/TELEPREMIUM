@@ -112,11 +112,10 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/240910
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1504
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
 http://51.222.43.170:8001/cristiancl/cirtianiptv/57
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
-http://51.222.43.170:8001/cristiancl/cirtianiptv/252504
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy
 http://51.222.43.170:8001/cristiancl/cirtianiptv/97
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
+http://51.222.43.170:8001/cristiancl/cirtianiptv/252504
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png" group-title="Entretenimiento", MTV
 http://51.222.43.170:8001/cristiancl/cirtianiptv/40
