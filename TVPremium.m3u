@@ -189,13 +189,14 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
 
 Películas
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula" Netflix, Amor al Cuadrado Otra Vez (2023)
+- Romanticas
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula - Romance", Amor al cuadrado otra vez (2023)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/304229.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="Pelicula - Romance", Querido David (2023)
+http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/303995.mkv
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="Pelicula", Amor al Cuadrado Otra Vez (2023)
-http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/304229.mkv
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Pelicula", 7th Secret (2022)
+- Suspenso
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Pelicula - Suspenso", 7th Secret (2022)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
 
 
