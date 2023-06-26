@@ -96,6 +96,9 @@ ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Entretenimiento", El Trece HD
+http://51.222.43.170:8001/cristiancl/cirtianiptv/240910
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1504
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
