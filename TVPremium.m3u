@@ -39,6 +39,9 @@ CANALES INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
 http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
 
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Películas y series en vivo", A&E
+http://51.222.43.170:8001/cristiancl/cirtianiptv/289425
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Canales Internacionales", TNT HD
 http://138.197.148.50/channel/get.php?id=333431204c41543a20544e54&type=master.m3u8
 
@@ -72,6 +75,9 @@ http://138.197.148.50/channel/get.php?id=353137204c41543a2048424f20506c757320484
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Canales Internacionales", FX
 http://138.197.148.50/channel/get.php?id=333137204c41543a204658204844&type=master.m3u8
 
+ENTRETENIMIENTO
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
+https://list.iptvcat.com/my_list/s/21a0f9accf882d1a236b93bc0527cea8.m3u8
 
 DEPORTES
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
