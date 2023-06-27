@@ -155,8 +155,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/244576
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Deportes",  TyC Sports HD
 http://51.222.43.170:8001/cristiancl/cirtianiptv/262180
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes",  ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes",  ESPN VIVO
+http://51.222.43.170:8001/cristiancl/cirtianiptv/1246
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes",  ESPN 2 HD
 http://45.166.92.22:58001/play/a01i/index.m3u8
