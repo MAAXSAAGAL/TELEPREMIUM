@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
-https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/TVPremium.m3u
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
-https://i.ibb.co/SnqM9fq/Picsart-23-06-24-22-06-52-830.jpg
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
-https://i.ibb.co/SnqM9fq/Picsart-23-06-24-22-06-52-830.jpg
-
-*****************************
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Nacionales"
@@ -257,6 +242,14 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/203599
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="Maratón", 24 Horas - Plim Plim
 http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+
+
 Películas
 - Acción
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake_2-640259780-large.jpg" group-title="Peliculas - Acción", Misión de rescate 2 (2023)
@@ -318,6 +311,14 @@ https://download939.mediafire.com/g1yr98mxqbegwB_XuEl1fazO6pAex3CrGMExhS57s2y0AP
 
 documentos 
 127.0.0.1:4443/MKsTUajZ/Soy_Virgo_T1_E4
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
+https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/TVPremium.m3u
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
+https://i.ibb.co/SnqM9fq/Picsart-23-06-24-22-06-52-830.jpg
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
+https://i.ibb.co/SnqM9fq/Picsart-23-06-24-22-06-52-830.jpg
 
 
 
