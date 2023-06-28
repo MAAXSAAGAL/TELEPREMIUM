@@ -81,7 +81,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/50
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
 http://138.197.148.50/channel/get.php?id=353037204c41543a20476f6c64656e&type=master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Películas y series en vivo", FX
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y series en vivo", HBO
 http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=master.m3u8
 
@@ -94,8 +95,7 @@ http://138.197.148.50/channel/get.php?id=353134204c41543a2048424f2046616d696c792
 http://138.197.148.50/channel/get.php?id=353137204c41543a2048424f20506c7573204844&type=master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Canales Internacionales", FX
-http://138.197.148.50/channel/get.php?id=333137204c41543a204658204844&type=master.m3u8
+
 
 ENTRETENIMIENTO
 
