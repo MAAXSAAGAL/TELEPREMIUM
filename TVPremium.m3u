@@ -10,11 +10,13 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 CANAL AMERICA TV HD / SD
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV HD | PE
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4834
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV SD | PE
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1347
 
 PANAMERICANA TV HD / SD
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", Panamericana TV | PE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3318
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/TV_Per%C3%BA_2021.svg/revision/latest?cb=20211006200828&path-prefix=es" group-title="Canales Nacionales", TV Perú HD | PE
