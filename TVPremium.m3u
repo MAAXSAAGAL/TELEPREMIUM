@@ -58,8 +58,10 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/37
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y series en vivo", Universal TV HD
 http://138.197.148.50/channel/get.php?id=353235204c41543a20556e6976657273616c205456&type=master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space SD
 http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space | HD
+http://68.183.205.94:25461/live/ssl/qy9YHLFhac/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E
 http://51.222.43.170:8001/cristiancl/cirtianiptv/289425
