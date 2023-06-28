@@ -16,6 +16,9 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/4834
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1347
 
 PANAMERICANA TV HD / SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV HD | PE
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3350
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3318
 
