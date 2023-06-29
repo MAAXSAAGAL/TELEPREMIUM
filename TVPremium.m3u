@@ -22,6 +22,10 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD | PE
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
+ATV +
+EXTINF:-1 tvg-logo="https://i.ibb.co/NFRZ0vH/Picsart-23-06-29-11-12-19-656.png" group-title="Canales Nacionales", ATV + | PE
+http://00322.xyz:8000/saabj84/CNGUPDY6RA/3321
+
 #EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa HD | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
