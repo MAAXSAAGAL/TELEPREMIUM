@@ -44,7 +44,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Global_Televisi%C3%B3n#/media/Archivo%3AGlobal_logo_2019.png" group-title="Canales Nacionales", Global TV | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Entretenimiento", Movistar Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Canales Nacionales", Movistar Plus | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
 
 NOTICIAS INTERNACIONALES
@@ -135,7 +135,7 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9110.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/200px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento", Pasiones
-http://51.222.43.170:8001/cristiancl/cirtianiptv/1468
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3078.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN HD | CO
 http://51.222.43.170:8001/cristiancl/cirtianiptv/254190
