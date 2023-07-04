@@ -33,8 +33,13 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8984.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NFRZ0vH/Picsart-23-06-29-11-12-19-656.png" group-title="Canales Nacionales", ATV + | PE
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/3321
 
-#EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa HD | PE
+#EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa OPC. 1 | PE
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295658.ts
+#EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Canales Nacionales", Exitosa OPC. 2 | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Global_Televisi%C3%B3n#/media/Archivo%3AGlobal_logo_2019.png" group-title="Canales Nacionales", Global TV | PE
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 
 NOTICIAS INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV HD
