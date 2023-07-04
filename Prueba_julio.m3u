@@ -144,14 +144,14 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/254190
 http://51.222.43.170:8001/cristiancl/cirtianiptv/418
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento", Tlnovelas
-http://51.222.43.170:8001/cristiancl/cirtianiptv/263257
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas
 http://51.222.43.170:8001/cristiancl/cirtianiptv/232354
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
-http://51.222.43.170:8001/cristiancl/cirtianiptv/57
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional
-http://51.222.43.170:8001/cristiancl/cirtianiptv/1504
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento",  TLC 
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento", TLC 
 http://204.199.120.34:16123/play/ch26
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Entretenimiento", El Trece HD
