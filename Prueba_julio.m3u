@@ -310,8 +310,11 @@ Películas
 - Acción
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake_2-640259780-large.jpg" group-title="Peliculas - Acción", Misión de rescate 2 (2023)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/315323.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino_perfecto-559141231-large.jpg" group-title="Peliculas - Acción", El asesino perfecto (2022)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_mafia_de_Mumbai_La_policaia_contra_el_hampa-572368968-large.jpg" group-title="PELICULAS - DOCUMENTALES", Mumbai Mafia (2023)
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_mafia_de_Mumbai_La_policaia_contra_el_hampa-572368968-large.jpg" group-title="Peliculas - Documentales", Mumbai Mafia (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159446.mkv
 
 - Romanticas
@@ -324,9 +327,16 @@ http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/303995.mkv
 
 - Familiares
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Milagro_en_la_celda_7-531139994-large.jpg" group-title="Peliculas - Familiares", Milagro en la celda 7 (2019)
-https://vd373.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1687843585702&srcIp=132.191.2.106&srcAg=CHROME_ANDROID&ms=45.136.22.78&type=4&sig=FrT5s0xceFI&ct=8&urls=45.136.21.18&clientType=0&id=1830606735982
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132086.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Chang_machaca-659099085-large.jpg" group-title="Peliculas - Familiares", Puedes hacerlo Chang (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_niano_delfain-602348605-large.jpg" group-title="Peliculas - Animadas", El niño delfín (2022)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159583.mkv
+
+SAGAS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas-493327751-large.jpg" group-title="Sagas", Fast & Furious 1: A todo gas (2001)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94105.mp4
 
 - Suspenso
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Peliculas - Suspenso", 7th Secret (2022)
