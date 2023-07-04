@@ -22,11 +22,14 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3173.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/TV_Per%C3%BA_2021.svg/revision/latest?cb=20211006200828&path-prefix=es" group-title="Canales Nacionales", TV Perú HD | PE
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD OPC. 2 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD OPC. 1 | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/296303.ts
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png" group-title="Canales Nacionales", ATV HD OPC. 2 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3320
+
+#EXTINF:-1 tvg-logo="https://cds2.canaln.pe/f/img/399x399default.jpg" group-title="Canales Nacionales", Canal N | PE
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8984.ts
 
 ATV +
 EXTINF:-1 tvg-logo="https://i.ibb.co/NFRZ0vH/Picsart-23-06-29-11-12-19-656.png" group-title="Canales Nacionales", ATV + | PE
