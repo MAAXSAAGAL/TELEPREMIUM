@@ -136,6 +136,8 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-home-and-health_m.png" group-title="Entretenimiento", H&H Discovery
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9110.ts
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="Entretenimiento", Antena 3 HD | ES
+http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/1173
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/200px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento", Pasiones
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3078.ts
