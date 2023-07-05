@@ -126,6 +126,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Series
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/285147.ts
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Novelas
+http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/5803
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="Entretenimiento", Food Network
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/187033.ts
 
