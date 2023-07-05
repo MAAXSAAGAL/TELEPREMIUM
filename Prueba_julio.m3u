@@ -218,13 +218,13 @@ DOCUMENTAL Y CULTURAL
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-channel_m.png" group-title="Documentales / Culturales", Discovery HD
 http://138.197.148.50/channel/get.php?id=333034204c41543a20446973636f76657279204368616e6e656c&type=master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1087943.png" group-title="Documentales / Culturales",  Animal Planet
-http://138.197.148.50/channel/get.php?id=333030204c41543a20416e696d616c20506c616e6574204844&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1087943.png" group-title="Documentales / Culturales", Animal Planet
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/2997.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Documentales / Culturales",  History
-http://138.197.148.50/channel/get.php?id=333230204c41543a20486973746f7279204368616e6e656c204844&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Documentales / Culturales",  H2
-http://138.197.148.50/channel/get.php?id=333233204c41543a204832&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Documentales / Culturales", History
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2825.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Documentales / Culturales", H2
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3018.ts
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" group-title="Documentales / Culturales", Universal Cinema
 http://51.222.43.170:8001/cristiancl/cirtianiptv/278168
