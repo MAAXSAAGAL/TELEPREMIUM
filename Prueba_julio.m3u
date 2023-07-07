@@ -197,17 +197,17 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/159941
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1600px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", Bein Sport | ES
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/126452.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Deportes",  TyC Sports HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Deportes", TyC Sports HD
 http://51.222.43.170:8001/cristiancl/cirtianiptv/262180
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes",  ESPN VIVO | HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | HD
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/295642
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes",  ESPN VIVO | SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | SD
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/5779
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes",  ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes", ESPN 2 HD
 http://45.166.92.22:58001/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="Deportes",  ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="Deportes", ESPN 3 HD
 http://00322.xyz:8000/rances123/9IFBBCRBIX/132277
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1J1vQg/Picsart-23-06-24-22-59-01-651.jpg" group-title="Deportes", ESPN 4 HD
@@ -329,6 +329,9 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159751.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160146.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="Peliculas - Romance", Querido David (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_combinaciaon_perfecta-174564354-large.jpg" group-title="Pelicula - Romance", Combinación perfecta (2023)
+http://rumenvod.luncdvod.xyz/vod/2CF49B6F0FFC4547838F200E871CC707_media.ts?client_ip=132.191.1.222&app_id=com.android.msandroid&user_id=187175044&host=rumenvod.luncdvod.xyz&dev_id=aa9c2406823e1f87a9555540138bbfbb&app_ver=42104&trans_id=ttH7HWo961xd_ByJWotyusTwt&expired=1688717629&media_code=2CF49B6F0FFC4547838F200E871CC707&auth_id=187175044_com.android.msandroid_cloud-c2-redis_0&Expires=1688717629&KeyName=kai03&Signature=UrV2UuhPucMWRlmSdSwG0GHBOPE=
+
 
 - Familiares
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Milagro_en_la_celda_7-531139994-large.jpg" group-title="Peliculas - Familiares", Milagro en la celda 7 (2019)
