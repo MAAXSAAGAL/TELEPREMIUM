@@ -112,7 +112,7 @@ http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=mas
 http://138.197.148.50/channel/get.php?id=353133204c41543a2048424f2032204844&type=master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Canales Internacionales",  HBO Family
-http://138.197.148.50/channel/get.php?id=353134204c41543a2048424f2046616d696c79204844&type=master.m3u8
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2792.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-panamericano-hd_m.png" group-title="Canales Internacionales", HBO Plus
 http://138.197.148.50/channel/get.php?id=353137204c41543a2048424f20506c7573204844&type=master.m3u8
 
