@@ -65,12 +65,13 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 1 | AR
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 2 | AR
-https://list.iptvcat.com/my_list/s/46b34861bafbc12b9a2d64759121e277.m3u8
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
+
 
 Peliculas y series en vivo
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Películas y series en vivo", AXN
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
+https://list.iptvcat.com/my_list/s/46b34861bafbc12b9a2d64759121e277.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
