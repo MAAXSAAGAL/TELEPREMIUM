@@ -324,6 +324,8 @@ http://playhispano.org:8080/movie/userlw/led5120/242711.mkv
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/315323.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino_perfecto-559141231-large.jpg" group-title="Peliculas - Acción", El asesino perfecto (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Agente_Fortune_El_gran_engaano-108621531-large.jpg" group-title="Peliculas - Acción", Operación fortuna: El gran engaño (2023)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159646.mp4
 
 -  Crimen
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="Peliculas - Crimen", Como me converti en un gánster (2020)
@@ -342,6 +344,8 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160146.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_combinaciaon_perfecta-174564354-large.jpg" group-title="Peliculas - Romance", Combinación perfecta (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162840.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_inocente-113281284-large.jpg" group-title="Pelicula - Romance", El inocente (2022)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159567.mp4
 
 
 - Familiares
@@ -365,8 +369,9 @@ http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
 - Terror
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_monja-167259563-large.jpg" group-title="Peliculas - Terror", La monja (2018)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132064.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lobo_vikingo-551785283-large.jpg" group-title="Pelicula - Terror", Lobo vikingo (2022)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159705.mkv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Serie"
 
 Series
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Series: Drama - HBO, NETFLIX, DISNEY+", New Amsterdam (2018), T1 | E1
