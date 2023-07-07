@@ -325,7 +325,11 @@ http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/315323.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino_perfecto-559141231-large.jpg" group-title="Peliculas - Acción", El asesino perfecto (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
 
+-  Crimen
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="Peliculas - Crimen", Como me converti en un gánster (2020)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159476.mkv
 
+-  Documentales
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_mafia_de_Mumbai_La_policaia_contra_el_hampa-572368968-large.jpg" group-title="Peliculas - Documentales", Mumbai Mafia (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159446.mkv
 
