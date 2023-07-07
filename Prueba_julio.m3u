@@ -384,10 +384,37 @@ Series
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Series: Drama - HBO, NETFLIX, DISNEY+", New Amsterdam (2018), T1 | E1
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Serie: New Amsterdam T1", Episodio 01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Drama: New Amsterdam T1", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Series: Drama: Lupin T1 ", Episodio 01
+
+
+- Lupin
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133830.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 02
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133831.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 03
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133832.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 04
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133833.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 05
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133834.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 06
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133835.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 07
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133836.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 08
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133837.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 09
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133838.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 10
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/138556.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-507298132-large.jpg" group-title="Drama: Lupin T2 ", Episodio 01
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/141421.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-507298132-large.jpg" group-title="Drama: Lupin T2 ", Episodio 01
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/141422.mkv
+
 
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
 http://51.222.43.170:8001/series/cristiancl/cirtianiptv/201315.mkv
