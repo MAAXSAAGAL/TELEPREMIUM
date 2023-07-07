@@ -361,6 +361,9 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159646.mp4
 -  Crimen
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="Peliculas - Crimen", Como me converti en un gánster (2020)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159476.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="Peliculas - Crimen", Crypto (2019)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
+
 
 -  Documentales
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_mafia_de_Mumbai_La_policaia_contra_el_hampa-572368968-large.jpg" group-title="Peliculas - Documentales", Mumbai Mafia (2023)
@@ -382,7 +385,8 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162840.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_inocente-113281284-large.jpg" group-title="Peliculas - Romance", El inocente (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159567.mp4
-
+#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="Peliculas - Romance", Balaur (2021)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
 
 - Familiares
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Milagro_en_la_celda_7-531139994-large.jpg" group-title="Peliculas - Familiares", Milagro en la celda 7 (2019)
@@ -402,9 +406,13 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159583.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Super_Mario_Bros_La_pelaicula-521125124-large.jpg" group-title="Peliculas - Animadas", Mario Bross: La película (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161830.mp4
 
-- Suspenso
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Peliculas - Suspenso", 7th Secret (2022)
+- Drama
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Peliculas - Drama", 7th Secret (2022)
 http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
+#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="Peliculas - Drama", Balaur (2021)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="Peliculas - Drama", Crypto (2019)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
 
 - Terror
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_monja-167259563-large.jpg" group-title="Peliculas - Terror", La monja (2018)
