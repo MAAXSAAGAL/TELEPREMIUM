@@ -134,7 +134,7 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/285147.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Novelas
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/5803
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="Entretenimiento", Food Network
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/187033.ts
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35049
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Entretenimiento", Movistar Plus
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
@@ -153,15 +153,16 @@ http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/1173
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3078.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN HD | CO
-http://51.222.43.170:8001/cristiancl/cirtianiptv/254190
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304257
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Entretenimiento", RCN Novelas
-http://51.222.43.170:8001/cristiancl/cirtianiptv/418
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304262
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento", Tlnovelas
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas
-http://51.222.43.170:8001/cristiancl/cirtianiptv/232354
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312987
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional
@@ -184,24 +185,28 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/4856
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV HD
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/4856
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV SD
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/4975
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV HD
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
 
 
 DEPORTES
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes", Directv Sports 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png" group-title="Deportes", Directv Sports 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/132282
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Deportes"
 
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/Univision_Deportes-e1522256243461.png" group-title="Deportes", Univision Deportes
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313174
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 | PE
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG" group-title="Deportes", TNT Sports
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34683
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 Max | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298922.ts
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/159941
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1600px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", Bein Sport | ES
