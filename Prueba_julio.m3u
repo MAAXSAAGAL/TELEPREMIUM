@@ -267,8 +267,13 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/132277
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1J1vQg/Picsart-23-06-24-22-59-01-651.jpg" group-title="Deportes", ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes", FOX Sports HD | ARG
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34641
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes", FOX Sports 2 | ARG
 http://00322.xyz:8000//streaming/clients_live.php?username=saabj84&password=CNGUPDY6RA&stream=145407&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes", FOX Sports 3 | ARG
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34647
 
 #EXTINF:-1 tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="Deportes", Moto ADV | ES
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303811
