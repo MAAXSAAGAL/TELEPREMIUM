@@ -198,10 +198,24 @@ DEPORTES
 http://00322.xyz:8000/rances123/9IFBBCRBIX/132282
 
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/Univision_Deportes-e1522256243461.png" group-title="Deportes", Univision Deportes
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313174
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34715
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Deportes", TUDN
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304510
 
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG" group-title="Deportes", TNT Sports
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34683
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/56e6f414-7518-4d1b-8f63-8f8d54370eef_m.jpg" group-title="Deportes", Win Sports HD
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34690
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/56e6f414-7518-4d1b-8f63-8f8d54370eef_m.jpg" group-title="Deportes", Win Sports + HD
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34691
+
+
+#EXTINF:-1 tvg-logo="https://z-m-scontent.flim3-3.fna.fbcdn.net/v/t1.6435-9/88350747_2754483941296320_5335213361548230656_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=109&ccb=1-7&_nc_sid=dd9801&_nc_ohc=he3vdee6-p4AX9lXTY4&_nc_ad=z-m&_nc_cid=1549&_nc_eh=0c69d4cbd5226f2d6150e827df60c1a6&_nc_rml=0&_nc_ht=z-m-scontent.flim3-3.fna&oh=00_AfAN_lZ-D_wi1UcFvXduu1twaTiWUapHv3CagqUPfgDwdw&oe=64D04A9F" group-title="Deportes", Gol Perú
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34745
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png" group-title="Deportes", Liga 1 Max | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298922.ts
