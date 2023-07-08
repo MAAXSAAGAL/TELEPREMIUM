@@ -459,7 +459,7 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145711.mp4
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145712.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yjTjcm8VpEHjbTV2aYeJp0cCUTj.jpg" group-title="Sagas", John Wick 3: Parabellum (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/136418.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="Sagas", John Wick 4: Parabellum (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="Sagas", John Wick 4 (2023)
 http://hidra.live:80/movie/gdttgzvd/V6tw0ws1Z0/314038.mkv
 
 
@@ -471,15 +471,20 @@ http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/315323.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Agente_Fortune_El_gran_engaano-108621531-large.jpg" group-title="Peliculas - Acción", Operación fortuna: El gran engaño (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159646.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="Peliculas - Acción", Libranos del mal (2020)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="Peliculas - Acción", Liberanos del mal (2020)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159486.mkv
+
+- John Wick
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="Peliculas - Acción", John Wick 4 (2023)
+http://hidra.live:80/movie/gdttgzvd/V6tw0ws1Z0/314038.mkv
+
 
 -  Crimen
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="Peliculas - Crimen", Como me converti en un gánster (2020)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159476.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="Peliculas - Crimen", Crypto (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="Peliculas - Crimen", Libranos del mal (2020)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="Peliculas - Crimen", Liberanos del mal (2020)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159486.mkv
 
 
@@ -514,6 +519,9 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
 - Familiares
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Milagro_en_la_celda_7-531139994-large.jpg" group-title="Peliculas - Familiares", Milagro en la celda 7 (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132086.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/636EnOWVlMmIhjCeUoPTLWwfRk8.jpg" group-title="Peliculas - Familiares", Amigos intocables (2011)
+http://hidra.live:80/movie/gdttgzvd/V6tw0ws1Z0/250386.mkv
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Puedes_hacerlo_Chang-659099085-large.jpg" group-title="Peliculas - Familiares", Puedes hacerlo Chang (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_magnaifico_Ivaan-202627990-large.jpg" group-title="Peliculas - Familiares", El Magnifico Ivan (2020)
@@ -521,6 +529,8 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/123229.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Peter_Pan_y_Wendy-582099201-large.jpg" group-title="Peliculas - Familiares", Peter Pan & Wendy (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162013.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Elementos-694000259-large.jpg" group-title="Peliculas - Animadas", Elemental (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162855.mp4
