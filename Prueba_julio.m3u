@@ -303,6 +303,8 @@ KIDS
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="Kids", Cartoonito
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312751
+#EXTINF:-1 tvg-logo="ñhttps://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png" group-title="Kids", ZooMo HD
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312760
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="Kids", Disney Junior HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312949
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Kids", Disney Channel HD
