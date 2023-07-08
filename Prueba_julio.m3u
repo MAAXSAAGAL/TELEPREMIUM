@@ -71,7 +71,7 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 Peliculas y series en vivo
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Películas y series en vivo", AXN
-https://list.iptvcat.com/my_list/s/46b34861bafbc12b9a2d64759121e277.m3u8
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313034
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
@@ -80,9 +80,7 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313049
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD OPC. 1
-http://138.197.148.50/channel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space OPC. 2
-http://68.183.205.94:25461/live/ssl/qy9YHLFhac/9.m3u8
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34971
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/5759.ts
@@ -100,22 +98,25 @@ http://138.197.148.50/channel/get.php?id=353033204c41543a2043696e656d6178204844&
 http://138.197.148.50/channel/get.php?id=333332204c41543a20536f6e79&type=master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y series en vivo", Star Channel
-http://51.222.43.170:8001/cristiancl/cirtianiptv/50
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312910
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
 http://138.197.148.50/channel/get.php?id=353037204c41543a20476f6c64656e&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Edge
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302657
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Plus
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34989
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Películas y series en vivo", FX
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y series en vivo", HBO
-http://138.197.148.50/channel/get.php?id=353132204c41543a2048424f204844&type=master.m3u8
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313040
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO 2 
-http://138.197.148.50/channel/get.php?id=353133204c41543a2048424f2032204844&type=master.m3u8
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34888
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Canales Internacionales",  HBO Family
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2792.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-panamericano-hd_m.png" group-title="Canales Internacionales", HBO Plus
-http://138.197.148.50/channel/get.php?id=353137204c41543a2048424f20506c7573204844&type=master.m3u8
 
 
 
@@ -134,6 +135,11 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/187033.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Entretenimiento", Movistar Plus
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Entretenimiento",  HBO Family
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2792.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-panamericano-hd_m.png" group-title="Entretenimiento", HBO Plus
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35290
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-home-and-health_m.png" group-title="Entretenimiento", H&H Discovery
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9110.ts
