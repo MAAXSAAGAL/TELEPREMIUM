@@ -203,6 +203,13 @@ DEPORTES
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png" group-title="Deportes", Directv Sports 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/132282
 
+#EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="Deportes", Directv Sports 2
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34612
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="Deportes", Directv Sports +
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/123871
+
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/Univision_Deportes-e1522256243461.png" group-title="Deportes", Univision Deportes
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34715
 
@@ -262,6 +269,9 @@ http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes", FOX Sports 2
 http://00322.xyz:8000//streaming/clients_live.php?username=saabj84&password=CNGUPDY6RA&stream=145407&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="Deportes", Moto ADV | ES
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303811
 
 DOCUMENTAL Y CULTURAL
 
