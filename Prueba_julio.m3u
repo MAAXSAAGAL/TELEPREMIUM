@@ -219,6 +219,13 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304510
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG" group-title="Deportes", TNT Sports
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34683
 
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png" group-title="Deportes", TNT Sports 2 | CL
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/124014
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="Deportes", TNT Sports 3 | CL
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/123887
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/56e6f414-7518-4d1b-8f63-8f8d54370eef_m.jpg" group-title="Deportes", Win Sports HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34690
 
@@ -274,6 +281,9 @@ http://00322.xyz:8000//streaming/clients_live.php?username=saabj84&password=CNGU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes", FOX Sports 3 | ARG
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34647
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oKaBwhGbseDaThZbkeub0rAAzPLxlHM4KXE6tc7cuUHWedWifdxElPkL6Y2PCpm3fjIHx_zE=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34618
 
 #EXTINF:-1 tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="Deportes", Moto ADV | ES
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303811
