@@ -125,6 +125,9 @@ ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment HD
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313174
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Series
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/285147.ts
