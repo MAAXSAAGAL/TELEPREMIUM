@@ -311,9 +311,9 @@ http://playhispano.org:8080/userlw/led5120/245744
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341.png" group-title="Deportes", DANZ 4
 http://playhispano.org:8080/userlw/led5120/245743
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712.png" group-title="Deportes", RedBull TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712.png" group-title="Deportes", RedBull TV | US
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/145483.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Wwelogo.svg/revision/latest/scale-to-width-down/200?cb=20220430002535.png" group-title="Deportes", WWE Network HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Wwelogo.svg/revision/latest/scale-to-width-down/200?cb=20220430002535.png" group-title="Deportes", WWE Network HD | US
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/145482.ts
 
 DOCUMENTAL Y CULTURAL
