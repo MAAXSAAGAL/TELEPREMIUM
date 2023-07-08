@@ -429,29 +429,20 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94105.mp4
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93959.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Raapido_y_furioso_Reto_Tokio-980475990-large.jpg" group-title="Sagas", Fast & Furious 3: Reto Tokio (2006)
 http://playhispano.org:8080/movie/userlw/led5120/231668.mkv
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_Aaun_maas_raapido_A_todo_gas_4-169720461-large.jpg" group-title="Sagas", Fast & Furious 4: Aún más rapido (2009)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93991.mp4
-
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_5_A_todo_gas_5-621975293-large.jpg" group-title="Sagas", Fast & Furious 5: A todo gas (2011)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138029.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_6_A_todo_gas_6-311607351-large.jpg" group-title="Sagas", Fast & Furious 6: A todo gas (2013)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93992.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_7_A_todo_gas_7-572354425-large.jpg" group-title="Sagas", Fast & Furious 7: A todo gas (2015)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138030.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_8-643070994-large.jpg" group-title="Sagas", Fast & Furious 8: No más familia (2017)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93994.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_Hobbs_Shaw-729732578-large.jpg" group-title="Sagas", Fast & Furious: Hobbs & Shaw (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100250.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_9-342517473-large.jpg" group-title="Sagas", Fast & Furious 9: The Fast Saga (2021)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138032.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_X-852394844-large.jpg" group-title="Sagas", Fast & Furious X (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162374.mkv
 
@@ -459,6 +450,19 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162374.mkv
 - Transformers 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-277223479-large.jpg" group-title="Sagas", Transformers: El despertar de las bestias (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162752.mkv
+
+- John Wick
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" group-title="Sagas", John Wick 1: Otro día para matar (2014)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145711.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3jApZTvbOs7giIM01ddPpFWQagR.jpg" group-title="Sagas", John Wick 2: Un nuevo día para matar (2017)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145712.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yjTjcm8VpEHjbTV2aYeJp0cCUTj.jpg" group-title="Sagas", John Wick 3: Parabellum (2019)
+http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/136418.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="Sagas", John Wick 4: Parabellum (2023)
+http://hidra.live:80/movie/gdttgzvd/V6tw0ws1Z0/314038.mkv
+
+
 
 - Acción
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake_2-640259780-large.jpg" group-title="Peliculas - Acción", Misión de rescate 2 (2023)
