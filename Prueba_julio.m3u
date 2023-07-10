@@ -186,6 +186,8 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8955.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Entretenimiento", Ve Plus | VEN
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png" group-title="Entretenimiento", VTV Canal | VEN
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9081.ts
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
