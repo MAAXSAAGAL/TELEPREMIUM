@@ -46,12 +46,10 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Global_Televisi%C3%B3n#/media/Archivo%3AGlobal_logo_2019.png" group-title="Canales Nacionales", Global TV | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Canales Nacionales", Movistar Plus | PE
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3328.ts
 
 NOTICIAS INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/147a869f-f2cc-42b6-83fa-ad66ff6745ca_m.jpg" group-title="Noticias Internacionales", CNN en Español HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302691
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/141351.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 1 HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3162.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 2 HD
