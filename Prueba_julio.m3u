@@ -134,9 +134,9 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34888
 ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
-http://51.222.43.170:8001/cristiancl/cirtianiptv/1505
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313174
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Series
@@ -183,6 +183,8 @@ http://204.199.120.34:16123/play/ch26
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Entretenimiento", El Trece HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8955.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Entretenimiento", Ve Plus | VEN
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9081.ts
