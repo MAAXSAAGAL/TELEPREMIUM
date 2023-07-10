@@ -75,13 +75,16 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 Peliculas y series en vivo
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Películas y series en vivo", AXN HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313034
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150070.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y series en vivo", Studio Universal
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3009.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y series en vivo", Universal TV HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313049
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3012.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34971
