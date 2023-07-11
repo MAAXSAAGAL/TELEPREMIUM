@@ -648,9 +648,11 @@ Series
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Series: Drama - HBO, NETFLIX, DISNEY+", New Amsterdam (2018), T1 | E1
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Serie: New Amsterdam T1 - Drama", Episodio 01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="🎬 Drama: New Amsterdam T1", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1", Episodio 01
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136952.mkv
 
 - Lupin
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-854298115-large.jpg" group-title="Drama: Lupin T1 ", Episodio 01
