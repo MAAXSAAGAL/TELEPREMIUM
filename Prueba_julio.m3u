@@ -723,11 +723,31 @@ http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160982.mkv
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160983.mkv
 
 - Crimen
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="Crimen: 50m2", Episodio 01
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="🎬 Crimen: 50m2", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/139833.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="Crimen: 50m2", Episodio 02
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="🎬 Crimen: 50m2", Episodio 02
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/139834.mkv
 
+- Puerta 7 (crimen)
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 01
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136425.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 02
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136426.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 03
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136427.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 04
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136428.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 05
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136429.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 06
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136430.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" group-title="🎬 Crimen: Puerta 7", Episodio 07
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136431.mp4
+
+
+
+- Borrar si es necesario
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
 http://51.222.43.170:8001/series/cristiancl/cirtianiptv/201315.mkv
 
