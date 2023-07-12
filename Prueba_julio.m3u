@@ -281,12 +281,12 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/126452.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Deportes", TyC Sports HD
 http://playhispano.org:8080/userlw/led5120/87989
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | AR
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/295642
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | SD
-http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/5779
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | CO
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes", ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="Deportes", ESPN 3 HD
 http://00322.xyz:8000/rances123/9IFBBCRBIX/132277
