@@ -239,7 +239,8 @@ http://playhispano.org:8080/userlw/led5120/86647
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/152907.ts
 #EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="Deportes", Directv Sports + OPC. 3
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145403.ts
-
+#EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="Deportes", Directv Sports + OPC. 3
+http://69.162.114.109:21856/live/cyx_okgtD7qlnpFLaZEWCWj3UC_720p.ts
 
 #EXTINF:-1 tvg-logo="https://www.hipodromos.org/wp-content/uploads/2022/04/Deportes-por-M_Color-Positivo_RGB-1536x806.jpg" group-title="Deportes", Movistar Deportes +
 http://playhispano.org:8080/userlw/led5120/156621
