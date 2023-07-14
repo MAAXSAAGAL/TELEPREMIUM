@@ -247,8 +247,8 @@ http://playhispano.org:8080/userlw/led5120/156621
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/Univision_Deportes-e1522256243461.png" group-title="Deportes", Univision Deportes
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34715
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Deportes", TUDN
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304510
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Deportes", TUDN | MX
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145458.ts
 
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG" group-title="Deportes", TNT Sports
 http://playhispano.org:8080/userlw/led5120/129708
