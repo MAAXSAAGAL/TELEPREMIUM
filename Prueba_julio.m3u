@@ -152,6 +152,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3746.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Entretenimiento", World Discovery HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2024.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Entretenimiento", Theater Discovery
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2032.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Entretenimiento", Movistar Plus
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
 
@@ -171,7 +174,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/156061.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN HD | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3576.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN Internacional HD | CO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN Internacional | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4811.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Entretenimiento", RCN Novelas
