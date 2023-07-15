@@ -198,8 +198,8 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150105.ts
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP 
-http://51.222.43.170:8001/cristiancl/cirtianiptv/252504
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Canal de la musica
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3548.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png" group-title="Entretenimiento", MTV
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4856
@@ -381,8 +381,6 @@ KIDS
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="Kids", Cartoonito
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149686.ts
-#EXTINF:-1 tvg-logo="ñhttps://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png" group-title="Kids", ZooMo HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312760
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="Kids", Disney Junior HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149678.ts
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Kids", Disney Channel HD
