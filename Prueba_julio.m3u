@@ -214,16 +214,22 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150105.ts
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Canal de la musica
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3548.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV Live
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146540.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV HD
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146538.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png" group-title="Entretenimiento", MTV
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4856
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV HD
-http://00322.xyz:8000/saabj84/CNGUPDY6RA/4856
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV SD
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV OPC. 1
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/4975
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV OPC. 2
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
 
 
