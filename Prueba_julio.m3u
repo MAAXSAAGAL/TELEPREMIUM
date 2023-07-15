@@ -141,45 +141,51 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Series
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Novelas
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162944.ts
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Novelas
-http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/5803
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Series
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2798.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="Entretenimiento", Food Network
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35049
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3746.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVGKcS/FB-IMG-1688438975412.jpg" group-title="Entretenimiento", Movistar Plus
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299322.ts
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Entretenimiento",  HBO Family
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2792.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-panamericano-hd_m.png" group-title="Entretenimiento", HBO Plus
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35290
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4799.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-home-and-health_m.png" group-title="Entretenimiento", H&H Discovery
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9110.ts
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135671.ts
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="Entretenimiento", Antena 3 HD | ES
-http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/1173
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/126214.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/200px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento", Pasiones
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3078.ts
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/156061.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN HD | CO
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304257
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3576.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN Internacional HD | CO
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4811.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Entretenimiento", RCN Novelas
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304262
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137655.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento", Tlnovelas
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas OPC. 1
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/140866.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas HD OPC. 2
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4896.ts
+
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento", TLC 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento", TLC
 http://204.199.120.34:16123/play/ch26
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Entretenimiento", El Trece HD
