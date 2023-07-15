@@ -128,6 +128,10 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313040
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO 2 
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34888
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3zqw5ECAlYIU7-tDyo-cOhoEzbOIMvcbuA&usqp=CAU" group-title="Películas y series en vivo", Tu Cine
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/138476.ts
+
+
 
 
 
@@ -349,7 +353,7 @@ http://playhispano.org:8080/userlw/led5120/245745
 http://playhispano.org:8080/userlw/led5120/245744
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341.png" group-title="Deportes", DANZ 4
-http://playhispano.org:8080/userlw/led5120/245743
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/141366.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712.png" group-title="Deportes", RedBull TV | US
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/145483.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Wwelogo.svg/revision/latest/scale-to-width-down/200?cb=20220430002535.png" group-title="Deportes", WWE Network HD | US
