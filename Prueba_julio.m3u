@@ -149,10 +149,10 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2798.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3746.ts
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Entretenimiento", World Discovery HD | US
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2024.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Entretenimiento", World Discovery HD
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3606.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Entretenimiento", Theater Discovery | US
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Entretenimiento", Theater Discovery
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2032.ts
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/7Sse9NW.png" group-title="Entretenimiento", Discovery Familia
