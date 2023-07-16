@@ -97,10 +97,10 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/5759.ts
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3089.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Películas y series en vivo", Warner Bros TV
-http://138.197.148.50/channel/get.php?id=333435204c41543a205761726e6572204844&type=master.m3u8
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3013.ts
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax
-http://138.197.148.50/channel/get.php?id=353033204c41543a2043696e656d6178204844&type=master.m3u8
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150094.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y series en vivo", Cinecanal | CO
 http://playhispano.org:8080/userlw/led5120/86973
@@ -109,16 +109,18 @@ http://playhispano.org:8080/userlw/led5120/86973
 http://138.197.148.50/channel/get.php?id=333332204c41543a20536f6e79&type=master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y series en vivo", Star Channel
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312910
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4944.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302658
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/7977.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Edge
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302657
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3762.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Premier
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/133789.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Plus
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34989
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3763.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Películas y series en vivo", FX
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
