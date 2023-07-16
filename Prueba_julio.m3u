@@ -154,6 +154,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2798.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="Entretenimiento", Food Network
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3746.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Entretenimiento", Discovery Turbo HD
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3702.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Entretenimiento", World Discovery HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3606.ts
