@@ -244,14 +244,19 @@ http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
 
 - Locos por el fútbol
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/002/530/159/mp4/sport-live-intro-4k-free-video.mp4" group-title="LOCOS X EL FÚTBOL ⚽", Programación
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/002/530/159/mp4/sport-live-intro-4k-free-video.mp4" group-title="LOCOS X EL FÚTBOL ⚽"
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png" group-title="LOCOS X EL FÚTBOL ⚽", Directv Sports 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/132282
+EVENTOS
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RfPJG64UbjY/X2znqGjfaxI/AAAAAAAAz-U/Nh8HHsidGng56Uro35CXGjU2eWgOYmZqQCLcBGAsYHQ/s640/afizzionados-izzi.jpg" group-title="LOCOS X EL FÚTBOL ⚽", Afizzionados | MX
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/148889.ts
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 01*
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159942.ts
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 02*
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159690.ts
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 03*
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161111.ts
+
 
 
 
@@ -325,8 +330,6 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140569.ts
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Gol Perú OPC 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
 
-
-
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Gol Perú OPC 3
 https://cdn.tutelehd.sx/live/STbee3f1d5c8ff5e6.m3u8
 
@@ -337,7 +340,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145408.ts
 http://playhispano.org:8080/userlw/led5120/87989
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | AR
-http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/295642
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159942.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="Deportes", ESPN VIVO | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deportes", ESPN 2 HD
