@@ -245,20 +245,23 @@ http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
 - Locos por el fútbol
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/HLeLVa9.md.jpg" group-title="LOCOS X EL FÚTBOL ⚽"
+#EXTINF:-1 tvg-logo="https://iili.io/HLeLVa9.md.jpg" group-title="LOCOS X EL FÚTBOL ⚽",▪️
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
 EVENTOS
 
-#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 01*
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 01**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159942.ts
-#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 02*
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 02**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159690.ts
-#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF *EVENTO 03*
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 03**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161111.ts
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 04**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160179.ts
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 05**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160399.ts
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/01/sudar_0_5.jpg" group-title="LOCOS X EL FÚTBOL ⚽", LxF **EVENTO 05**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161110.ts
 
 
 
@@ -351,6 +354,9 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/132277
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1J1vQg/Picsart-23-06-24-22-59-01-651.jpg" group-title="Deportes", ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1J1vQg/Picsart-23-06-24-22-59-01-651.jpg" group-title="Deportes", ESPN PREMIUM
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160179.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes", FOX Sports HD | ARG
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34641
