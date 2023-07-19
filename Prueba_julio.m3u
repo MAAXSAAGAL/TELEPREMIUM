@@ -1,23 +1,23 @@
 #EXTM3U
 
 CANAL LATINA OPCIONES
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales Nacionales", Latina TV OPC. 1 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HLgAjRf.md.jpg" group-title="Canales Nacionales", Latina TV OP 1 | PE
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3324.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales Nacionales", Latina TV OPC. 2 | PE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales Nacionales", Latina TV OP 2 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", America TV OPC. 1 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", America TV OP 1 | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8983.ts
 
 CANAL AMERICA TV HD / SD
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV OPC. 2 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV OP 2 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3318.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV OPC. 3 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV OP 3 | PE
 http://magmas5.com:8000/rances123/9IFBBCRBIX/3319
 
 PANAMERICANA TV HD / SD
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV OPC. 1 | PE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV OP 1 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3350
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV OPC. 2 | PE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Canales Nacionales", Panamericana TV OP 2 | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3173.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/TV_Per%C3%BA_2021.svg/revision/latest?cb=20211006200828&path-prefix=es" group-title="Canales Nacionales", TV Perú HD | PE
