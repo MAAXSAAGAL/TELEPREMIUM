@@ -142,7 +142,7 @@ ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
