@@ -1034,6 +1034,12 @@ http://king.viviotv.xyz:80/series/andres1/andres1/1054832.mkv
 
 
 
+- Radios
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xvtrDTQF6qpbf1tT9RSJprT6CIB.jpg" group-title="📻 Radios Perú", Disney Perú
+https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
+
+
+
 
 - Borrar si es necesario
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
