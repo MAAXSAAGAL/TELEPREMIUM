@@ -123,6 +123,9 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34715
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Deportes", TUDN | MX
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145458.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Deportes", TUDN OP 2 | MX
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/134466.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG" group-title="Deportes", TNT Sports
 http://playhispano.org:8080/userlw/led5120/129708
