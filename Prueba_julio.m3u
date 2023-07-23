@@ -80,6 +80,12 @@ http://playhispano.org:8080/userlw/led5120/189562
 #EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 10**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159941.ts
 
+#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 11**
+http://66.150.67.107:12321/live/cyx_6033288258774519978098687511.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 12**
+https://66.150.67.107:12321/live/cyx_6033288258774519978098687511.ts
+
 
 DEPORTES
 
