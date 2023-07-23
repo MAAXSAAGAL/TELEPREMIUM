@@ -100,6 +100,13 @@ http://playhispano.org:8080/userlw/led5120/215315
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max OPC. 5 | PE
 http://iptvpremium.ink:55577/live/angelh3858/658587/192944.ts
 
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max OPC. 6 | PE
+http://iptvpremium.ink:55577/live/angelh3858/658587/166331.ts
+
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max OPC. 7 | PE
+http://iptvpremium.ink:55577/live/angelh3858/658587/167279.ts
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 OPC. 1 | PE
 http://playhispano.org:8080/userlw/led5120/189561
 
