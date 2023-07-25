@@ -487,7 +487,7 @@ KIDS
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="Kids", Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="Kids", Cartoonito
+#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="Kids", Cartoonito Kids HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149686.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="Kids", Disney Junior HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149678.ts
@@ -1086,13 +1086,17 @@ http://king.viviotv.xyz:80/series/andres1/andres1/1054832.mkv
 
 
 - Radios
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="📻", Disney Perú
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIO EN VIVO", Disney Perú
 https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
 Radio Discoteca 90
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="📻", Discoteca 90
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="RADIOS EN VIVO ", Discoteca 90
 https://serverssl.innovatestream.pe:8080/87.236.196.34:8906//stream?icy=http
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/R48ZK87yWx.png" group-title="RADIOS EN VIVO ", MegaMix
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
+
 
 
 - Borrar si es necesario
