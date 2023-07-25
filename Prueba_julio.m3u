@@ -765,16 +765,15 @@ https://ia601503.us.archive.org/0/items/perro-samurai.mp-4/PERRO%20SAMURAI.mp4.m
 
 
 - Drama
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="Peliculas - Drama", 7th Secret (2022)
-http://51.222.43.170:8001/movie/cristiancl/cirtianiptv/301766.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="🍿 PEL - Drama", 7th Secret | SUB (2022)
+http://playhispano.org:8080/movie/userlw/led5120/110809.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/iwaZJd7FODZaIfqw1GKgNJSQPSM.jpg" group-title="🍿 PEL - Drama", Un arduo camino (2021)
 
 
-
-#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="Peliculas - Drama", Balaur (2021)
+#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="🍿 PEL - Drama", Balaur (2021)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="Peliculas - Drama", Crypto (2019)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="🍿 PEL - Drama", Crypto (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ha8PLN3EgHR5uloDwDr426GANBI.jpg" group-title="Peliculas - Drama", Hacia la libertad (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158685.mkv
@@ -1087,9 +1086,12 @@ http://king.viviotv.xyz:80/series/andres1/andres1/1054832.mkv
 
 
 - Radios
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="📻", Disney Perú
 https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
 Radio Discoteca 90
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="📻", Discoteca 90
 https://serverssl.innovatestream.pe:8080/87.236.196.34:8906//stream?icy=http
 
 
