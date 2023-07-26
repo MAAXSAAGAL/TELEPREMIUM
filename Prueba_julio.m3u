@@ -265,6 +265,8 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png" group-title="Noticias Internacionales", 247 Noticias HD | AR
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_deutsche-welle-amerika_m.png" group-title="Noticias Internacionales", DW Español | LAT
+http://2.magmas5.com:8000/rances123/9IFBBCRBIX/141388
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 1 | AR
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
@@ -422,8 +424,8 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150105.ts
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Canal de la musica
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3548.ts
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3552.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV Live
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146540.ts
@@ -503,9 +505,15 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3023.ts
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34777
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04d03150062725.58c6b3dc154be.jpg" group-title="Kids", Paka Paka | ARG
-https://www.youtube.com/user/CanalPakapaka/live
+http://2.magmas5.com:8000/rances123/9IFBBCRBIX/3537
+
+
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Kids", Dreamworks HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304507
+
+
+- *PAKA PAKA
+https://www.youtube.com/user/CanalPakapaka/live
 
 MARATON
 
