@@ -23,10 +23,10 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3173.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="Canales Nacionales", TV Perú | PE
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/HLgw3fn.jpg" group-title="Canales Nacionales", ATV HD OP 1 | PE
+#EXTINF:-1 tvg-logo="https://ibb.co/SrXpFs2"><img src="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="Canales Nacionales", ATV HD OP 1 | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/296303.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/HLgj4DB.md.jpg" group-title="Canales Nacionales", ATV HD OP 2 | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="Canales Nacionales", ATV HD OP 2 | PE
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://cds2.canaln.pe/f/img/399x399default.jpg" group-title="Canales Nacionales", Canal N | PE
