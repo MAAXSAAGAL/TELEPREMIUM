@@ -37,6 +37,10 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhvRyZX/Picsart-23-07-27-17-42-42-547.png" group-title="Canales Nacionales", Canal N | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8984.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4NmLzYK/Picsart-23-07-27-18-33-54-616.png" group-title="Canales Nacionales", Canal N | PE
+http://iptvpremium.ink:55577/live/angelh3858/658587/163302.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NFRZ0vH/Picsart-23-06-29-11-12-19-656.png" group-title="Canales Nacionales", ATV + | PE
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/3321
 
