@@ -57,6 +57,11 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
 EVENTOS
 
+#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **Fulham x Aston Villa**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
+#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **Real Madrid x Man. United**
+http://iptvpremium.ink:55577/live/angelh3858/658587/199618.ts
+
 #EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 01**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159942.ts
 #EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 02**
@@ -89,9 +94,6 @@ https://66.150.67.107:12321/live/cyx_6033288258774519978098687511.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 13**
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/134466.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **Fulham x Aston Villa**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 
 
 DEPORTES
