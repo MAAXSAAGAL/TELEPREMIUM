@@ -303,7 +303,7 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 
 Peliculas y series en vivo
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Películas y series en vivo", AXN HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y series en vivo", AXN HD
 http://king.viviotv.xyz:80/andres1/andres1/90825
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
@@ -354,7 +354,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150102.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Plus
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/133789.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2PqsV4v/th-1.jpg" group-title="Películas y series en vivo", FX
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y series en vivo", FX
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y series en vivo", HBO
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313040
