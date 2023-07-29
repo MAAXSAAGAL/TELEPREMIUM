@@ -730,6 +730,9 @@ http://playhispano.org:8080/movie/userlw/led5120/256403.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sCO4mVtnQ1oltuZcHuGltFEaZsj.jpg" group-title="🍿 PEL - Historias", El camino (2023)
 http://playhispano.org:8080/movie/userlw/led5120/219044.mkv
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/gk6IErM0acV6HJRwKZy8ecBoddc.jpg" group-title="🍿 PEL - Historias", Bohemian Rhapsody (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109739.mkv
+
 
 - Comedia
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cash-372664950-large.jpg" group-title="🍿 Comedia", Cash (2023)
@@ -809,6 +812,7 @@ https://ia601503.us.archive.org/0/items/perro-samurai.mp-4/PERRO%20SAMURAI.mp4.m
 
 
 - Drama
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="🍿 PEL - Drama", 7th Secret | SUB (2022)
 http://playhispano.org:8080/movie/userlw/led5120/110809.mkv
 
@@ -819,7 +823,7 @@ http://playhispano.org:8080/movie/userlw/led5120/110809.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Crypto-617405827-large.jpg" group-title="🍿 PEL - Drama", Crypto (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ha8PLN3EgHR5uloDwDr426GANBI.jpg" group-title="Peliculas - Drama", Hacia la libertad (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ha8PLN3EgHR5uloDwDr426GANBI.jpg" group-title="🍿 PEL - Drama", Hacia la libertad (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158685.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kEXkCDG1AhjfoTJBgxDjQYn4P1t.jpg" group-title="Peliculas - Drama", La venganza perfecta (2018)
@@ -901,6 +905,9 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/157113.mp4
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/157114.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hK5xQciXZ5gVVScgvPtNPwR7XOj.jpg" group-title="🎬 Historias: Lakers: Tiempo de victoria", Episodio 10
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/157115.mp4
+
+
+
 
 
 
@@ -992,6 +999,17 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/160473.mkv
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="🎬 Drama: New Amsterdam T1", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", Temporada 01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164090.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", Temporada 02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164091.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", Temporada 03
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164092.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", Temporada 04
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164093.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", Temporada 05
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164094.mkv
 
 
 - Superman T1
@@ -1096,22 +1114,61 @@ http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/141424.mkv
 
 
 - Sin Huellas
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Sin huellas - Comedia", Episodio 01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160976.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 02
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 02
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160977.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 03
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 03
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160978.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 04
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 04
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160979.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 05
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 05
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160980.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 06
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 06
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160981.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 07
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 07
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160982.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="Serie: Comedia - Sin huellas", Episodio 08
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_huellas_Serie_de_TV-587524716-large.jpg" group-title="🎬 Comedia: Sin huellas", Episodio 08
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160983.mkv
+
+- Mi tio
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150970.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150971.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 03
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150972.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 04
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150973.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 05
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150974.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sDPNwSe63WACVlHap7un6AgbqgO.jpg" group-title="🎬 Comedia: Mi Tio", Episodio 06
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/150975.mkv
+
+- Mo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155391.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155392.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 03
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155393.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 04
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155394.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 05
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155395.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 06
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155396.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 07
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155397.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 08
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155398.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 09
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155399.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x3ojdK36AKestQaL2nAE6A7JYWO.jpg" group-title="🎬 Comedia: Mo", Episodio 10
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155400.mkv
+
+
 
 - Crimen
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="🎬 Crimen: 50m2", Episodio 01
