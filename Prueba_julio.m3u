@@ -781,6 +781,9 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159646.mp4
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159486.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg" group-title="🍿 PEL - Acción", Primal (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100269.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qiJO9tqQnlOWG6LUs7ZfZpwRr5Q.jpg" group-title="🍿 PEL - Acción", Venom (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
+
 
 - John Wick
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="🍿 PEL - Acción", John Wick 4 (2023)
@@ -905,8 +908,14 @@ https://ia601503.us.archive.org/0/items/perro-samurai.mp-4/PERRO%20SAMURAI.mp4.m
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/4Ff6sR84zGR4og4MORaEjzVfrvF.jpg" group-title="🍿 PEL - Drama", Bird Box Barcelona (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163349.mkv
+
+- Ciencia ficción 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/4Ff6sR84zGR4og4MORaEjzVfrvF.jpg" group-title="🍿 PEL - Ficción & Fantasia", Bird Box Barcelona (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163349.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qiJO9tqQnlOWG6LUs7ZfZpwRr5Q.jpg" group-title="🍿 PEL - Ficción & Fantasia", Venom (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7th_Secret-596361026-large.jpg" group-title="🍿 PEL - Drama", 7th Secret *SUB (2022)
 http://playhispano.org:8080/movie/userlw/led5120/110809.mkv
@@ -916,8 +925,17 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159568.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hLVPlhfVngurxLwrI49fNJqhqJ.jpg" group-title="🍿 PEL - Drama", La gran tormenta (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
+
+- Aventura
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hLVPlhfVngurxLwrI49fNJqhqJ.jpg" group-title="🍿 PEL - Aventura", La gran tormenta (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="🍿 PEL - Aventura", Jumanji: El siguiente nivel (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="🍿 PEL - Acción", Jumanji: El siguiente nivel (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="🍿 PEL - Drama", Balaur (2021)
