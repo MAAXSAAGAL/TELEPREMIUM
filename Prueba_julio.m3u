@@ -826,7 +826,7 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94193.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ha8PLN3EgHR5uloDwDr426GANBI.jpg" group-title="🍿 PEL - Drama", Hacia la libertad (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158685.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kEXkCDG1AhjfoTJBgxDjQYn4P1t.jpg" group-title="Peliculas - Drama", La venganza perfecta (2018)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kEXkCDG1AhjfoTJBgxDjQYn4P1t.jpg" group-title="🍿 PEL - Drama", La venganza perfecta (2018)
 https://www-m1t56977.ssl0d.com/hls2/NSqiEYnnulWId_gvpXCWTQ/1689127408/BaJgkNjX-0iDBDDvEho-3Fu1_0AY_WNb7viQ55D_4H8/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp9b6Wz4/Picsart-23-07-11-12-23-35-378.jpg" group-title="Peliculas - Drama", Yo soy todas las niñas (2021)
@@ -1351,6 +1351,11 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163531.mkv
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163871.mkv
 
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/R48ZK87yWx.png" group-title="SUENAN LOS DJ'S 🎵", DJ SOL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148546.ts
+
+
+
 
 - Radios
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIOS EN VIVO", Disney Perú
@@ -1358,10 +1363,10 @@ https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
 Radio Discoteca 90
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="RADIOS EN VIVO ", Discoteca 90
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="RADIOS EN VIVO", Discoteca 90
 https://serverssl.innovatestream.pe:8080/87.236.196.34:8906//stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/R48ZK87yWx.png" group-title="RADIOS EN VIVO ", MegaMix
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/R48ZK87yWx.png" group-title="RADIOS EN VIVO", MegaMix
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
 
