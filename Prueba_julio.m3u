@@ -134,6 +134,10 @@ http://playhispano.org:8080/userlw/led5120/215313
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="Deportes", Liga 1 Max OPC. 4 | PE
 http://playhispano.org:8080/userlw/led5120/215315
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Best_Cable_Sports.png" group-title="Deportes", Best Cable Sports
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnRz3yrr/Picsart-23-07-27-16-12-51-825.jpg" group-title="Deportes", Liga 1 Max OPC. 5 | PE
 http://iptvpremium.ink:55577/live/angelh3858/658587/192944.ts
 
@@ -482,6 +486,13 @@ http://00322.xyz:8000/saabj84/CNGUPDY6RA/4975
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV OPC. 2
 http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png" group-title="Entretenimiento", Best Cable Music
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png" group-title="Entretenimiento", Best Cable +Cumbia
+https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.flim9-1.fna.fbcdn.net/v/t39.30808-6/309274942_177945681412268_4363122040107387411_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeF1v-yH9vf4rJsT_dDElk_OHNJ63Ooo_Bkc0nrc6ij8GVx4EB1dZxglJ0O3hfhMmHsIyJc1SJusHlnH3qGfyh1n&_nc_ohc=4LYhCOdlNMcAX9Yk7qn&_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_ht=scontent.flim9-1.fna&oh=00_AfAGmd1MfjvXO2Afhb4LTPJ3sy-qgeOzKbXiv_tSa6JaWA&oe=64CA3504" group-title="Entretenimiento", Planeta TV
+https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 DOCUMENTAL Y CULTURAL
 
