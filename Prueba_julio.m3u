@@ -286,6 +286,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160607.ts
 
 
 NOTICIAS INTERNACIONALES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKDBDzb/Picsart-23-07-27-23-57-19-326.png" group-title="Noticias Internacionales", CNN en Español
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/141351.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 1 HD
