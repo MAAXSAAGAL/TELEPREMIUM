@@ -1533,6 +1533,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148546.ts
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-XszMqybzq69RPPWW-7gyFDA-t240x240.jpg" group-title="SUENAN LOS DJ'S 🎵", DJ LINDA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/153631.ts
 
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/39/d3/73/39d373b1-e117-20c6-7602-1bd78582d01f/mza_13579791097511643521.jpg/300x300.jpg" group-title="SUENAN LOS DJ'S 🎵", DJ GIAN
+https://stream77.hearthis.at/listen.mp3?id=9206303&track=84w2z2d474u2d44354i5r234r224346443j54464z294b4y2s2t2a4i574t2l5a424f4j474&key=202151&t=-62169987208
+
 
 - Radios
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIOS EN VIVO", Disney Perú
@@ -1540,13 +1543,22 @@ https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
 Radio Discoteca 90
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xgbPEVhymn.png" group-title="RADIOS EN VIVO", Panamericana
+https://streaming.gometri.com/stream/8000/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dyazjpn6jmch.png" group-title="RADIOS EN VIVO", Discoteca 90
 https://serverssl.innovatestream.pe:8080/87.236.196.34:8906//stream?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/R48ZK87yWx.png" group-title="RADIOS EN VIVO", MegaMix
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/34zgpcj49zes.png" group-title="RADIOS EN VIVO", Salsa Radio
+http://radio.domiplay.net:2002/stream/1/
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FRxPHfR8PM.jpg" group-title="RADIOS EN VIVO", Love 90's
+https://90.streeemer.com:8000/radio.aac
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/28gwe9qp3fxw.png" group-title="RADIOS EN VIVO", Latina Bachata
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
 
 - Borrar si es necesario
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
