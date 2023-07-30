@@ -1538,10 +1538,16 @@ https://stream77.hearthis.at/listen.mp3?id=9206303&track=84w2z2d474u2d44354i5r23
 
 
 - Radios
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dEg9AUE3CD.png" group-title="RADIOS EN VIVO", Moda
+https://16603.live.streamtheworld.com/CRP_MOD_SC?csegid=30008&dist=30008
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIOS EN VIVO", Disney Perú
 https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
-Radio Discoteca 90
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VZd6pyTMTY.png" group-title="RADIOS EN VIVO", Ritmo Romántica
+https://14013.live.streamtheworld.com/CRP_RIT_SC?csegid=30008&dist=30008
+
+
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xgbPEVhymn.png" group-title="RADIOS EN VIVO", Panamericana
 https://streaming.gometri.com/stream/8000/stream
@@ -1560,9 +1566,19 @@ https://90.streeemer.com:8000/radio.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/myjxgk6rpbae.png" group-title="RADIOS EN VIVO", Ataque Techno Perú
 https://radio.sonicafm.pe:8064/stream?icy=http
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4MZ52aALY5.png" group-title="RADIOS EN VIVO", Estacion Techno 90s
+https://stream-157.zeno.fm/ku8rrau72rhvv?zs=Uj8aNr31QXCcX7m_raxcww
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/28gwe9qp3fxw.png" group-title="RADIOS EN VIVO", Latina Bachata
 https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+
+
+
+
+
+
+
+
 
 - Borrar si es necesario
 #EXTINF:-1 tvg-logo="https://static.imges.icu/public/upload/cover/loadmg-5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg" group-title="Series recientemente agregadas", Promoción 09
