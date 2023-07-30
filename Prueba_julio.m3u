@@ -1557,6 +1557,10 @@ http://radio.domiplay.net:2002/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FRxPHfR8PM.jpg" group-title="RADIOS EN VIVO", Love 90's
 https://90.streeemer.com:8000/radio.aac
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/myjxgk6rpbae.png" group-title="RADIOS EN VIVO", Ataque Techno Perú
+https://radio.sonicafm.pe:8064/stream?icy=http
+
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/28gwe9qp3fxw.png" group-title="RADIOS EN VIVO", Latina Bachata
 https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
 
