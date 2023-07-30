@@ -465,6 +465,9 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150105.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/290/035/large_2x/online-tv-channel-logo-design-template-tv-icon-white-play-button-live-streaming-entertainment-company-antenna-yellow-orange-black-vector.jpg" group-title="Entretenimiento", ZF Canal
+https://v4.tustreaming.cl/atmtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3552.ts
 
