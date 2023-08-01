@@ -958,7 +958,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 PEL - Acción", Pandemic (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vEVeqQBbw8bIMKtpS7nPhxaTJKb.jpg" group-title="🍿 PEL - Ficción & Fantasia", Némesis (2022)
+https://ia801504.us.archive.org/18/items/nemesis-720.mkv/N%C3%A9mesis%20-%20720.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vEVeqQBbw8bIMKtpS7nPhxaTJKb.jpg" group-title="🍿 PEL - Acción", Némesis (2022)
+https://ia801504.us.archive.org/18/items/nemesis-720.mkv/N%C3%A9mesis%20-%20720.mkv.mp4
 
 
 
@@ -1369,6 +1372,23 @@ http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/141423.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lupin_Serie_de_TV-507298132-large.jpg" group-title="🎬 Drama: Lupin T1 / T2", Episodio 04
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/141424.mkv
 
+- Apariencias (Serie)
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 01
+https://ia801501.us.archive.org/3/items/apariencias-1-x-6-720p/APARIENCIAS%20T1%20E1%20APPLE%20TV-720p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 02
+https://ia801501.us.archive.org/3/items/apariencias-1-x-6-720p/APARIENCIAS%20T1%20E2-720p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 03
+https://archive.org/download/apariencias-1-x-6-720p/APARIENCIAS%201X3-720p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 04
+https://ia601501.us.archive.org/3/items/apariencias-1-x-6-720p/APARIENCIAS%201X4-720p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 05
+https://ia801501.us.archive.org/3/items/apariencias-1-x-6-720p/APARIENCIAS1X5-720p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/g6Fms8DBs10XIkZ9QKUxrH2udG2.jpg" group-title="🎬 Drama: Apariencias", Apariencias Episodio 06
+https://ia601501.us.archive.org/3/items/apariencias-1-x-6-720p/APARIENCIAS%201X6-720p.mp4
+
+
+
 
 
 - Sin Huellas
@@ -1433,6 +1453,27 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/155400.mkv
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/139833.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg" group-title="🎬 Crimen: 50m2", Episodio 02
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/139834.mkv
+
+- Acción ( La lista final)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 01
+https://ia601409.us.archive.org/12/items/la-lista/La%20Lista%20T1x01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 02
+https://ia801409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 03
+https://ia801409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 04
+https://ia801409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 05
+https://ia801409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 06
+https://ia601409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 07
+https://ia601409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/x5qMM2An3lLgT5Fgtdbb44ueuMh.jpg" group-title="🎬 Acción: La lista final", La lista final, Episodio 08
+https://ia801409.us.archive.org/12/items/la-lista/La%20Lista%20T%201x08.mp4
+
+
+- 30 monedas (serie)
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dYMEvoBo6kSbZxru8Fv6DNonVb7.jpg" group-title="🎬 Crimen: 30 monedas", 30 monedas Episodio 01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/134750.mkv
