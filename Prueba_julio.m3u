@@ -1696,11 +1696,11 @@ https://stream-157.zeno.fm/ku8rrau72rhvv?zs=Uj8aNr31QXCcX7m_raxcww
 https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
 
 
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E01
+#EXTINF:-1 tvg-name="Juegos del Trono" tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163871.mkv
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
+#EXTINF:-1 tvg-name="Juegos del Trono" tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163872.mkv
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" pltv-name="KRISTIANO-IPTV" pltv-description="CANAIS,FILMES E SERIES" 
+#EXTINF:-1 tvg-name="Juegos del Trono" tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" pltv-name="KRISTIANO-IPTV" pltv-description="CANAIS,FILMES E SERIES" 
 pltv-cover="https://image.slidesharecdn.com/ytddartwork-150414152724-conversion-gate01/95/creating-killer-youtube-thumbnails-and-channel-art-nab-2015-10-638.jpg?cb=1429043338" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163873.mkv
 
@@ -1708,22 +1708,22 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163873.mkv
 
 ################## MACGYVER 1 TEMPORADA ########################
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x01
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x01
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP01.mp4
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x02
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x02
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP02.mp4
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x03
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x03
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP03.mp4
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x04
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x04
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP04.mp4
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x05
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x05
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP05.mp4
 
-#EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x06
+#EXTINF:-1 tvg-name="MAC" tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x06
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT01EP06.mp4
 
 #EXTINF:-1 tvg-logo="http://poltronanerd.com.br/wp-content/uploads/2015/10/poltrona_MacGyver.jpeg" group-title="MACGYVER" pltv-subgroup="1ª Temporada", 1x07
