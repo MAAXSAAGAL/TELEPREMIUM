@@ -1704,6 +1704,12 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163872.mkv
 pltv-cover="https://image.slidesharecdn.com/ytddartwork-150414152724-conversion-gate01/95/creating-killer-youtube-thumbnails-and-channel-art-nab-2015-10-638.jpg?cb=1429043338" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163873.mkv
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg, Star Wars Episodio 1
+http://127.0.0.1:4443/wClkjJ6A/Soy_Virgo_T1_E1.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg, Star Wars Episodio 2
+http://127.0.0.1:4443/wClkjJ6A/Soy_Virgo_T1_E2.mkv
+
 
 
 ################## MACGYVER 1 TEMPORADA ########################
@@ -1843,11 +1849,7 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT02EP21.mkv
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT02EP22.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg, Star Wars Episodio 1
-http://127.0.0.1:4443/wClkjJ6A/Soy_Virgo_T1_E1.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg, Star Wars Episodio 2
-http://127.0.0.1:4443/wClkjJ6A/Soy_Virgo_T1_E2.mkv
 
 
 
