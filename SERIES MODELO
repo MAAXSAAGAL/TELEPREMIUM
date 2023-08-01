@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/162755.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 03
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163022.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 04
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163531.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 05
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163871.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S01 E01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/162755.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S02 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163028.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Imari S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163029.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Imari S02 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+
+#EXTGRP
