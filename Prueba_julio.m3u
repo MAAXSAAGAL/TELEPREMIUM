@@ -1697,9 +1697,17 @@ https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
 
 #EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163871.mkv
+#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163872.mkv
+#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" pltv-name="KRISTIANO-IPTV" pltv-description="CANAIS,FILMES E SERIES" 
+pltv-cover="https://image.slidesharecdn.com/ytddartwork-150414152724-conversion-gate01/95/creating-killer-youtube-thumbnails-and-channel-art-nab-2015-10-638.jpg?cb=1429043338" group-title="Acción" pltv-subgroup="Juegos Del Trono", Juegos del trono S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163873.mkv
 
 
 
+#PLAYLISTV: pltv-logo="https://doity.com.br/media/doity/eventos/evento-7073-logo_organizador.jpeg" pltv-name="KRISTIANO-IPTV" pltv-description="CANAIS,FILMES E SERIES" 
+pltv-cover="https://image.slidesharecdn.com/ytddartwork-150414152724-conversion-gate01/95/creating-killer-youtube-thumbnails-and-channel-art-nab-2015-10-638.jpg?cb=1429043338" 
+pltv-author="KRISTIANO" pltv-site="WWW.SITE.COM.BR" pltv-email="KRISITAOS.SFD@GMAIL"
 
 
 
