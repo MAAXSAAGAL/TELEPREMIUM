@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Catálogo" tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="> Sci-Fi & Fantasy", Catalogos
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Invasión secreta", S01 E01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/162755.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Invasión secreta", S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+
+#EXTINF:-1 tvg-name="Catálogo" tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="> Acción", Catalogos
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Mision Imposible", S01 01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163022.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Amor secreto", Episodio 04
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163531.mkv
+
+#EXTINF:-1 tvg-name="Catálogo" tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="> Romance", Catalogos
+http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Te amo", S01 E05
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163871.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S01 E01
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/162755.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Inversión Secreta S02 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163028.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Imari S01 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163029.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy" Imari S02 E02
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/163021.mkv
+
+#EXTGRP
