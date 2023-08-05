@@ -431,7 +431,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4799.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135671.ts
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="Entretenimiento", Antena 3 HD | ES
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/126214.ts
-
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="Entretenimiento", Antena 3 Internacional
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131130.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/200px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento", Pasiones
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/156061.ts
 
@@ -634,11 +635,46 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65880
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/500px-Bally_sports_logo.svg.png" group-title="Zapping USA", Bally Sports | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66040
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/440px-Bally_sports_west_logo.svg.png" group-title="Zapping USA", Bally Sports West | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66059
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bally_Sports_Sun.svg/440px-Bally_Sports_Sun.svg.png" group-title="Zapping USA", Bally Sports Sun | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66058
+
+#EXTINF:-1 tvg-logo="https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png" group-title="Zapping USA", Fox 8 | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66056
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/cnbc_logo_icon_169378.png" group-title="Zapping USA", CNBC | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/67613
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/WISNTV-12CurrentLogo.png" group-title="Zapping USA", WISN TV | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65877
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/350px-WABC_TV_New_2021.svg.png" group-title="Zapping USA", abc7 NY HD | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131270.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/310px-American_Heroes_Channel_logo.svg.png" group-title="Zapping USA", American Heroes Channel | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131313.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/500px-AXS_TV_logo.svg.png" group-title="Zapping USA", AXS TV | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162825.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/400px-2018_Animal_Planet_logo.svg.png" group-title="Zapping USA", Animal Planet | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131314.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Zapping USA", Nat Geo Wild | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131139.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Zapping USA", A&E | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129371.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" group-title="Zapping USA", AMC | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131272.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/640px-BBC_Logo_2021.svg.png" group-title="Zapping USA", BBC | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/130992.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f212%2fbein-sports-hd-1.png" group-title="Zapping USA", Bein Sports | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131285.ts
+
 
 
 
