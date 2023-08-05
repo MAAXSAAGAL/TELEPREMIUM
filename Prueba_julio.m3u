@@ -612,6 +612,17 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
 #EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="Canales Chile", La Red | CHL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3529.ts
 
+- Canales Colombia
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="Canales Colombia", Canal 1 | COL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3570.ts
+#EXTINF:-1 tvg-logo=":https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="Canales Colombia", 90 minutos | COL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135040.ts
+
+#EXTINF:-1 tvg-logo=":https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png" group-title="Canales Colombia", CTV | COL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140371.ts
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Canales Colombia", Caracol TV | COL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
+
 - Canales USA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  ID Discovery | USA
