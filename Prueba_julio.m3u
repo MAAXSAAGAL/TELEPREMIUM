@@ -392,11 +392,13 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150323.ts
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", Lifetime
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/154827.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento", El gourmet
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135878.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3559.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Novelas
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162944.ts
@@ -594,11 +596,21 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146369.ts
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="Canales Argentina", Canal de la ciudad | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3562.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3559.ts
 
 #EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png" group-title="Canales Argentina", Telesur | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3545.ts
 
-- Canales USA
+- Canales Chile
+#EXTINF:-1 tvg-logo=":https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="Canales Chile", Chile Visión | CHL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135058.ts
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="Canales Chile", 24 horas | CHL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3532.ts
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="Canales Chile", Canal 13 | CHL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="Canales Chile", La Red | CHL
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3529.ts
 
 - Canales USA
 
