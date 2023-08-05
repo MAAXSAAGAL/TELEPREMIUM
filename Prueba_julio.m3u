@@ -457,8 +457,10 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151067.ts
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD 
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD OP 2
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62720
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento", TLC
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3741.ts
 
