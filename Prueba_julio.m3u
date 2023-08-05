@@ -675,6 +675,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131314.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Zapping USA", Nat Geo Wild | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131139.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="Zapping USA", Discovery Family | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148697.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Zapping USA", A&E | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129371.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" group-title="Zapping USA", AMC | USA
