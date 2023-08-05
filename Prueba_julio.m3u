@@ -629,7 +629,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  ID Discovery | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/6660.ts
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  Televisa Miami | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65880
 
 
 MARATON
