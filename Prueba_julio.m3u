@@ -391,6 +391,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento", El gourmet
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135878.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3559.ts
