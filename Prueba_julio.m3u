@@ -627,10 +627,19 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
 
 - Canales USA
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  ID Discovery | USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA", ID Discovery | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/6660.ts
-#EXTINF:-1 tvg-logo="https://dimensionturistica.com/es/wp-content/uploads/2021/04/%C2%BFSin-bufet-de-comida-Los-cruceros-podrian-cambiar-uno-de.png" group-title="Zapping USA",  Telemundo Chicago | USA
+#EXTINF:-1 tvg-logo="https://dimensionturistica.com/es/wp-content/uploads/2021/04/%C2%BFSin-bufet-de-comida-Los-cruceros-podrian-cambiar-uno-de.png" group-title="Zapping USA", Telemundo Chicago | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65880
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/500px-Bally_sports_logo.svg.png" group-title="Zapping USA", Bally Sports | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66040
+
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/cnbc_logo_icon_169378.png" group-title="Zapping USA", CNBC | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/67613
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/WISNTV-12CurrentLogo.png" group-title="Zapping USA", WISN TV | USA
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65877
+
 
 
 MARATON
