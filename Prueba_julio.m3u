@@ -386,7 +386,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/138476.ts
 ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/12d5eb2a710a0aed3878d6f52a859965985a7de38b5a48714cd8fdb87b049429.png" group-title="Entretenimiento", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="Entretenimiento", Comedy Central 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Entretenimiento", Comedy Central 
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150323.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
@@ -593,6 +593,10 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146369.ts
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="Canales Argentina", Canal de la ciudad | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3562.ts
+
+
+#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png" group-title="Canales Argentina", Telesur | ARG
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3545.ts
 
 - Canales USA
 
