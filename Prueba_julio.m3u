@@ -538,11 +538,6 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150079.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Documentales / Culturales",  ID Discovery 
 http://2.magmas5.com:8000/ntxplay3@/HBRH13DNXH/135673
 
-- Canales USA
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  ID Discovery | USA
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/6660.ts
-
 
 
 
@@ -579,6 +574,25 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151648.ts
 https://www.youtube.com/user/CanalPakapaka/live
 
 - Canales Argentina
+#EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="Canales Argentina", Agrotendencia | ARG
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.2086347220_AmricaTucumn(2019-01).png.be2064fffb0bcb360d568ab22913683f.png" group-title="Canales Argentina", América Tucumán | ARG
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s210/aunar-2022.png" group-title="Canales Argentina", Aunar | ARG
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1https://www.lanoticia1.com/sites/default/files/bvc.png" group-title="Canales Argentina", BVC | ARG
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleuhttps://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Canales Argentina", C5N | ARG
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Canales Argentina", La Nación+| ARG
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+- Canales USA
+
+- Canales USA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA",  ID Discovery | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/6660.ts
 
 
 
