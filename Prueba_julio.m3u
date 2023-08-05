@@ -628,24 +628,34 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140371.ts
 #EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Canales Colombia", Caracol TV | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
 
+
+
+- Canal MX
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Canales México 🇲🇽", Estrella TV | MEX
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="Canales México 🇲🇽", GalaVision | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
+
 - Canales USA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA", ID Discovery | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/6660.ts
-#EXTINF:-1 tvg-logo="https://dimensionturistica.com/es/wp-content/uploads/2021/04/%C2%BFSin-bufet-de-comida-Los-cruceros-podrian-cambiar-uno-de.png" group-title="Zapping USA", Telemundo Chicago | USA
+#EXTINF:-1 tvg-logo="https://dimensionturistica.com/es/wp-content/uploads/2021/04/%C2%BFSin-bufet-de-comida-Los-cruceros-podrian-cambiar-uno-de.png" group-title="Zapping USA 🇺🇲", Telemundo Chicago | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/65880
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/500px-Bally_sports_logo.svg.png" group-title="Zapping USA", Bally Sports | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/500px-Bally_sports_logo.svg.png" group-title="Zapping USA 🇺🇲", Bally Sports | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66040
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/440px-Bally_sports_west_logo.svg.png" group-title="Zapping USA", Bally Sports West | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/440px-Bally_sports_west_logo.svg.png" group-title="Zapping USA 🇺🇲", Bally Sports West | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66059
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bally_Sports_Sun.svg/440px-Bally_Sports_Sun.svg.png" group-title="Zapping USA", Bally Sports Sun | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bally_Sports_Sun.svg/440px-Bally_Sports_Sun.svg.png" group-title="Zapping USA 🇺🇲", Bally Sports Sun | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66058
 
-#EXTINF:-1 tvg-logo="https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png" group-title="Zapping USA", Fox 8 | USA
+#EXTINF:-1 tvg-logo="https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png" group-title="Zapping USA 🇺🇲", Fox 8 | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/66056
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/cnbc_logo_icon_169378.png" group-title="Zapping USA", CNBC | USA
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/cnbc_logo_icon_169378.png" group-title="Zapping USA 🇺🇲", CNBC | USA
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/67613
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/WISNTV-12CurrentLogo.png" group-title="Zapping USA", WISN TV | USA
@@ -673,9 +683,36 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131272.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/640px-BBC_Logo_2021.svg.png" group-title="Zapping USA", BBC | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/130992.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Zapping USA", HBO Family | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148864.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/270px-HBO_Signature.svg.png" group-title="Zapping USA", HBO Signature | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148865.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f212%2fbein-sports-hd-1.png" group-title="Zapping USA", Bein Sports | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131285.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/480px-Big_Ten_Network_Logo.svg.png" group-title="Zapping USA", Big Network | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140776.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/635px-Bravo_2017_logo.svg.png" group-title="Zapping USA", Bravo | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148801.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/640px-Freeform_2022.svg.png" group-title="Zapping USA", Freeform | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148831.ts
+
+#EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2022/01/cbs_hero_midnight_logo_092220.jpg" group-title="Zapping USA", CBS | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/134702.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Zapping USA", ESPN | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148989.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/300px-Game_Show_Network_2018.svg.png" group-title="Canales USA 🇺🇲", Game Show | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148833.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="Canales USA 🇺🇲", GalaVision | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Canales USA 🇺🇲", Estrella TV | USA
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
 
