@@ -344,8 +344,10 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3089.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Películas y series en vivo", Warner Bros TV
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3013.ts
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax OP 1
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150094.ts
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax OP 2
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148825.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y series en vivo", Cinecanal | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150092.ts
