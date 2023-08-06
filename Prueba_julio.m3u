@@ -1201,7 +1201,10 @@ https://ia902704.us.archive.org/28/items/el-3sc-4nd-4l-0/El_3sc4nd4l0.mp4
 
 - Aventura
 
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 PEL - Aventura", Los tres mosqueteros D'Artagnan (2023)
+https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 PEL - Historias", Los tres mosqueteros D'Artagnan (2023)
+https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/bAKCbByXeZ9UyFKIR04ry4fCQX3.jpg" group-title="🍿 PEL - Aventura", El rio bravo (2023)
 https://ia902705.us.archive.org/19/items/river-wild-aventuraaccion_202308/River%20Wild_aventura%26accion.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="🍿 PEL - Aventura", Atrapa almas (2023)
@@ -1354,15 +1357,15 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109737.mp4
 
 
 - Conciertos
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/3y8oTT439jLlzuGNO3oS7ppxMNt.jpg" group-title="🎤 Concierto", Marc Anthony: Una Noche
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/3y8oTT439jLlzuGNO3oS7ppxMNt.jpg" group-title="🎤 CONCIERTOS", Marc Anthony: Una Noche
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137442.mkv
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-ZbvGAhnSuBc2UZcx-LY2vxA-t500x500.jpg" group-title="🎤 Concierto", Romeo Santos: Utopia Live
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-ZbvGAhnSuBc2UZcx-LY2vxA-t500x500.jpg" group-title="🎤 CONCIERTOS", Romeo Santos: Utopia Live
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/140838.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ugUAD3hB3RDoWKQ7qM7LOvWquK5.jpg" group-title="🎤 Concierto", Auténticos Decandentes: Viña del Mar
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ugUAD3hB3RDoWKQ7qM7LOvWquK5.jpg" group-title="🎤 CONCIERTOS", Auténticos Decandentes: Viña del Mar
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/131839.mp4
-#EXTINF:-1 tvg-logo="https://www.latercera.com/resizer/M1DYCyMUFUv-XOo6p6aRbsDlB7E=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/6LGMTNT42NHQNI24ZI5276ZBJQ.jpg" group-title="🎤 Concierto", Los Fabulosos Cadillacs: Viña del Mar
+#EXTINF:-1 tvg-logo="https://www.latercera.com/resizer/M1DYCyMUFUv-XOo6p6aRbsDlB7E=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/6LGMTNT42NHQNI24ZI5276ZBJQ.jpg" group-title="🎤 CONCIERTOS", Los Fabulosos Cadillacs: Viña del Mar
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/125834.mkv
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-ZbvGAhnSuBc2UZcx-LY2vxA-t500x500.jpg" group-title="🎤 Concierto", The Weeknd: Pepsi Super Bowl
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-ZbvGAhnSuBc2UZcx-LY2vxA-t500x500.jpg" group-title="🎤 CONCIERTOS", The Weeknd: Pepsi Super Bowl
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137914.mp4
 
 
@@ -1578,23 +1581,23 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164094.mkv
 - Superman T1
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/InShot_20230711_003045163.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Temporada 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/InShot_20230711_003045163.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Temporada 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136952.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 01
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136952.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 02
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 02
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136953.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 03
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 03
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136954.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 04
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 04
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136955.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 05
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 05
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136956.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 06
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 06
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136958.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 07
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Superman y Lous Episodio 07
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136959.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 08
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2",  Episodio 08
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136960.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" group-title="🎬 Drama: Superman y Lous T1 / T2", Episodio 09
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136961.mkv
@@ -1799,7 +1802,7 @@ http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512377.mp4
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512378.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria S02 E05
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512379.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria  T1 / T2 / T3", Valeria S02 E06
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria S02 E06
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512380.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria S02 E07
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512381.mp4
@@ -1807,9 +1810,9 @@ http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512381.mp4
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512382.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/InShot_20230711_003045163.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria Temporada 03
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/133830.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia T1 / T2 / T3", Valeria S03 E01
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria S03 E01
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512383.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia T1 / T2 / T3", Valeria S03 E02
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXFBXGYahUVNmvMi8OUeVWbQz5J.jpg" group-title="🎬 Comedia: Valeria T1 / T2 / T3", Valeria S03 E02
 http://965453830785512367.ot0711.xyz:80/series/diego22/diego22/512384.mp4
 
 - Mo
