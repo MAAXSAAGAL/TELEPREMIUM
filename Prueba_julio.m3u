@@ -1604,6 +1604,13 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/160473.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="🎬 Drama: New Amsterdam T1", Episodio 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/160074.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Operativo: Lioness", S01 E01 Operativo: Lioness
+https://s16.wolfstream.tv/hls2/01/02117/atoz88ptgwcv_x/index-v1-a1.m3u8?t=o83HrPSUugf7DJd4CIl9y4yQet1Mc9aLspwgdFbGBVM&s=1691359280&e=43200&f=10588307&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Operativo: Lioness", S01 E02 Operativo: Lioness
+https://s4.wolfstream.tv/hls2/01/02117/q6vnduf5gj1b_h/index-v1-a1.m3u8?t=41RN0S5twLi8kzYXJT9-QY1D-MFwBkNIy5DUQdaxaTA&s=1691359450&e=43200&f=10588309&i=0.1&sp=0
+
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", S01 E01 Secuestro aéreo
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/164090.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nfqhC35QYDHt5zE2g4PgqWG851l.jpg" group-title="🎬 Drama: Secuestro aéreo", S01 E02 Secuestro aéreo
