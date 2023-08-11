@@ -993,8 +993,14 @@ https://ia802704.us.archive.org/11/items/creed-iii-accion/Creed%20III%20Accion.m
 https://ia802704.us.archive.org/11/items/creed-iii-accion/Creed%20III%20Accion.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino_perfecto-559141231-large.jpg" group-title="🍿 PEL - Acción", El asesino perfecto (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/5BjRSWRvGK0e9Ub0QPxn1UAgTYg.jpg" group-title="🍿 PEL - Acción", No hay santos (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159706.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Agente_Fortune_El_gran_engaano-108621531-large.jpg" group-title="🍿 PEL - Acción", Operación fortuna: El gran engaño (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159646.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6CrYEn3Ls5aDcXGt8Ak2dN3ahPb.jpg" group-title="🍿 PEL - Acción", Renegades (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159489.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6CrYEn3Ls5aDcXGt8Ak2dN3ahPb.jpg" group-title="🍿 PEL - Crimen", Renegades (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159489.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zfC8bfoMZhaCxswi41CjesysfhZ.jpg" group-title="🍿 PEL - Acción", Asesino sin memoria (2022)
 https://ia601508.us.archive.org/14/items/asesino-sin-memoria_202208/Asesino%20sin%20memoria.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zfC8bfoMZhaCxswi41CjesysfhZ.jpg" group-title="🍿 PEL - Crimen", Asesino sin memoria (2022)
@@ -1014,6 +1020,8 @@ http://hidra.live:80/movie/gdttgzvd/V6tw0ws1Z0/314038.mkv
 
 
 -  Crimen
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rQ1i2Rd24PEQSFbLQ278YVaOuOL.jpg" group-title="🍿 PEL - Crimen", Infiesto (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159650.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kEXkCDG1AhjfoTJBgxDjQYn4P1t.jpg" group-title="🍿 PEL - Crimen", La venganza perfecta (2018)
 https://ia902703.us.archive.org/33/items/v-3-ganz-4-p-3-rf-3-t/V3GANZ4-P3RF3T.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="🍿 PEL - Crimen", Como me converti en un gánster (2020)
@@ -1372,7 +1380,7 @@ https://ia601506.us.archive.org/0/items/dejame-salir-720p-terror/Dejame%20Salir%
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101266.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xc0rbaze6VQQ0aOj8ju7zvdEPAx.jpg" group-title="🍿 Terror & Suspenso", El exorcista del papa (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162059.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xc0rbaze6VQQ0aOj8ju7zvdEPAx.jpg" group-title="🍿 Terror & Suspenso", Sick (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mpfoBxeLIgLIGN0YFwnny34ZE1K.jpg" group-title="🍿 Terror & Suspenso", Sick (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159491.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cSPlOojHgIV1kcZHdNRmMUsTFIL.jpg" group-title="🍿 Terror & Suspenso", El misterio de Ozark (2022)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160553.mkv
