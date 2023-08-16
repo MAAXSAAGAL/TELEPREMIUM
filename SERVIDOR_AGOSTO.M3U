@@ -662,7 +662,12 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140371.ts
 #EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Canales Colombia", Caracol TV | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
 
+- Canal Ecuador
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="Canales Ecuador", Ecuavisa | ECU
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157405.ts
 
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Canales Ecuador", Gamavisión | ECU
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145740.ts
 
 - Canal MX
 
