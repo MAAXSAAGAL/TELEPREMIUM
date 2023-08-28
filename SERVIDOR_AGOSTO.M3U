@@ -670,6 +670,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Canales Religiosos", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w427647087.m3u8
 
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg" group-title="Canales Religiosos", TeleVida Network
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w449945295.m3u8
 - Canales Argentina
 #EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="Canales Argentina", Agrotendencia | ARG
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
