@@ -65,6 +65,8 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w2101674157.m3u8
 #EXTINF:-1 tvg-logo="https://www.prensadigital.tv/wp-content/uploads/2023/06/nativa-tv-prensa-digtal-1024x810.jpg" group-title="Canales Nacionales", Nativa TV | PE
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="Canales Nacionales", Best TV | PE
+https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 #EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="Canales Nacionales", Via TV | PE
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="Canales Nacionales", Antares Televisión | PE
