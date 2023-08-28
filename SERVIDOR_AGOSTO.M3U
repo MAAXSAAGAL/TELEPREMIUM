@@ -265,6 +265,8 @@ https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?tr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjZN7ks/Picsart-23-07-27-21-07-44-597.png" group-title="Deportes", TNT Sports
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/131980.ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdtSsyBSsQwJtmT3Vm1XResDkAaCb2Vaglle1sxOYBEhM4wLeSjuv5_r3_Tqc7iL-7V_n6VGswnRHVNsKgUtGGeeE8g91kOnnLsbUl7Bb4C0JCDsYc4fioZklS-yjW_49yAqksFEAdysj38P6qSepTtgnGHijPaAH2md66OHYhlejY3PRMdSMP4Txk/s16000/image.png" group-title="Deportes", DEPORTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png" group-title="Deportes", TNT Sports 2 | CL
 http://playhispano.org:8080/userlw/led5120/214076
@@ -320,7 +322,7 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34647
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oKaBwhGbseDaThZbkeub0rAAzPLxlHM4KXE6tc7cuUHWedWifdxElPkL6Y2PCpm3fjIHx_zE=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports
 http://playhispano.org:8080/userlw/led5120/124470
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png" group-title="Deportes", Gol TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png" group-title="Deportes", GOL TV
 http://playhispano.org:8080/userlw/led5120/119642
 
 #EXTINF:-1 tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="Deportes", Moto ADV | ES
@@ -352,7 +354,7 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/145483.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Wwelogo.svg/revision/latest/scale-to-width-down/200?cb=20220430002535.png" group-title="Más Deportes", WWE Network HD | US
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/145482.ts
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oKaBwhGbseDaThZbkeub0rAAzPLxlHM4KXE6tc7cuUHWedWifdxElPkL6Y2PCpm3fjIHx_zE=s900-c-k-c0x00ffffff-no-rj" group-title="Más Deportes", Claro Sports 2| LAT
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oKaBwhGbseDaThZbkeub0rAAzPLxlHM4KXE6tc7cuUHWedWifdxElPkL6Y2PCpm3fjIHx_zE=s900-c-k-c0x00ffffff-no-rj" group-title="Más Deportes", Claro Sports 2 | LAT
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160607.ts
 
 
@@ -472,7 +474,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/154827.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento", El gourmet
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135878.ts
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entretenimiento", Sony Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Novelas
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162944.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Series
