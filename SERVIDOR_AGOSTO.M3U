@@ -637,8 +637,10 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149678.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149676.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="Kids", Nick Junior HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34779
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149673.ts
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network OP 2
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Kids", Nickelodeon HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3023.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Kids", Teen Nick HD
