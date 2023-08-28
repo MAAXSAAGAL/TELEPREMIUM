@@ -59,7 +59,8 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295658.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="Canales Nacionales", Exitosa OPC. 2 | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="Canales Nacionales", Exitosa OPC. 3 | PE
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w2101674157.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mtvf4Kb/Picsart-23-07-25-23-17-21-840.png" group-title="Canales Nacionales", Global TV | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 
