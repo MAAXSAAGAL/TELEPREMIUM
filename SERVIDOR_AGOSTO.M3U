@@ -51,6 +51,8 @@ http://00322.xyz:8000/saabj84/CNGUPDY6RA/3321
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQ4Sd5x/Picsart-23-07-25-23-01-58-937.png" group-title="Canales Nacionales", Willax TV | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/187026.ts
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4T9RuHnF42.png" group-title="Canales Nacionales", Karibeña | PE
+https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sfjFB3/Picsart-23-07-25-21-23-05-997.png" group-title="Canales Nacionales", RPP TV | PE
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
