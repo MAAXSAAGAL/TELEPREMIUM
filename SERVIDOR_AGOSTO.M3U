@@ -662,6 +662,12 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151648.ts
 - *PAKA PAKA
 https://www.youtube.com/user/CanalPakapaka/live
 
+- Religión
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Canales Religiosos", MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Canales Religiosos", MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w427647087.m3u8
+
 - Canales Argentina
 #EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="Canales Argentina", Agrotendencia | ARG
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
