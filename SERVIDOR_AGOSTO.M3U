@@ -2,9 +2,10 @@
 
 CANAL LATINA OPCIONES
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="Canales Nacionales", Latina TV OP 1 | PE
-http://iptvpremium.ink:55577/live/angelh3858/658587/163309.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="Canales Nacionales", Latina TV OP 2 | PE
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3324.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="Canales Nacionales", Latina TV OP 2 | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZxYC4Bv/Picsart-23-07-27-17-03-58-148.png" group-title="Canales Nacionales", Latina TV OP 3 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
 
