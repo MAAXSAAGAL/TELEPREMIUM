@@ -78,13 +78,21 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 - Locos por el fútbol
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/HLk240g.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", Programación LXED
+#EXTINF:-1 tvg-logo="https://iili.io/HLk240g.md.png" group-title="LOCOS POR EL DEPORTE", Programación Hoy
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
 
 EVENTOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/08/31/Racing_Club_ARG_vs_Boca_J_20230831_1693434651342/ctr-all-complete.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/08/31/Racing_Club_ARG_vs_Boca_J_20230831_1693434651342/cmaf-cenc-ctr-7000K/7000_complete.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Atlético Grau x Universitario**
 https://sb2.livemodo.click/LTtriFhLLkj67UwNA-trrw/1693190532/3138312e36362e3133392e3634/ff90/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Sheriff x Manchester City**
 https://storage.googleapis.com/pjxrbneiix/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Sheriff x Manchester City OP 2**
