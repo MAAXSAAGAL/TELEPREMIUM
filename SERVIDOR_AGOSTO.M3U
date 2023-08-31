@@ -1124,11 +1124,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
 
 
 
-- John Wick
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="🍿 PEL - Acción", John Wick 4 (2023)
-http://tv.proyectox.vip:43201/movie/c7audi847v/3b5rShYoDH/264147.mkv
-
-
 BELICAS
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="🍿 PEL - Bélicas", Siete reyes deben morir (2023)
@@ -1141,6 +1136,12 @@ http://tv.proyectox.vip:8080/movie/c7audi847v/3b5rShYoDH/264185.mp4
 http://tv.proyectox.vip:8080/movie/c7audi847v/3b5rShYoDH/261273.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXJLtFRLnTP3Wm8g17i8ABxQ8o.jpg" group-title="🍿 PEL - Acción", Historia de honor (2022)
 http://tv.proyectox.vip:8080/movie/c7audi847v/3b5rShYoDH/261273.mkv
+
+
+- John Wick
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="🍿 PEL - Acción", John Wick 4 (2023)
+http://tv.proyectox.vip:43201/movie/c7audi847v/3b5rShYoDH/264147.mkv
+
 
 -  Crimen
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rQ1i2Rd24PEQSFbLQ278YVaOuOL.jpg" group-title="🍿 PEL - Crimen", Infiesto (2023)
