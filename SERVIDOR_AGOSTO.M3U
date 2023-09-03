@@ -501,6 +501,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4962.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="Películas y series en vivo", HBO Signature
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150079.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Películas y series en vivo", HBO Xtreme
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135677.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3zqw5ECAlYIU7-tDyo-cOhoEzbOIMvcbuA&usqp=CAU" group-title="Películas y series en vivo", Tu Cine
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/138476.ts
