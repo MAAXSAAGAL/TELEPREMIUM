@@ -77,6 +77,10 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w2101674157.m3u8
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="Canales Nacionales", Best TV | PE
 https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="Canales Nacionales", Cable Perú TV | PE
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="Canales Nacionales", Via TV | PE
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="Canales Nacionales", Antares Televisión | PE
@@ -246,7 +250,10 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/148889.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (EST) | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159457.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 2 | PE
+http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 3 | PE
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/298922
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 OPC. 1 | PE
@@ -255,7 +262,7 @@ http://tv.nousiptv.com:8080/live/Javier1120/112020/1151341.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 OPC. 2 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159941.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XC6nQJ6/Picsart-23-07-25-23-46-11-975.png" group-title="Deportes", Liga 1 Max OPC. 3 | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XC6nQJ6/Picsart-23-07-25-23-46-11-975.png" group-title="Deportes", Liga 1 Max OPC. 4 | PE
 http://playhispano.org:8080/userlw/led5120/189562
 
 
