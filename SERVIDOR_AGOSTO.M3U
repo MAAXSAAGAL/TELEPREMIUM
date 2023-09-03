@@ -895,22 +895,22 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3385.ts
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_praincipe_de_Bel_Air_Serie_de_TV-511491709-large.jpg" group-title="Maratón", 24 Horas - El Príncipe del Rap
-http://51.222.43.170:8001/cristiancl/cirtianiptv/273906
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161032.ts
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg" group-title="Maratón", 24 Horas - Familia PLuche
-http://51.222.43.170:8001/cristiancl/cirtianiptv/274307
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/152821.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Yx6trt/94d6cab5674a226759b860861c538baf.jpg" group-title="Maratón", 24 Horas - Harry Potter
-http://51.222.43.170:8001/cristiancl/cirtianiptv/241042
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129377.ts
 
 #EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2015/07/disneymovies_feat_021.png" group-title="Maratón", 24 Horas - Disney Movies
 http://51.222.43.170:8001/cristiancl/cirtianiptv/490
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gZ3rXq/images-1.jpg" group-title="Maratón", 24 Horas - Caso Cerrado
-http://51.222.43.170:8001/cristiancl/cirtianiptv/297298
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160035.ts
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Patrulla_de_cachorros_Serie_de_TV-237758475-large.jpg" group-title="Maratón", 24 Horas - Paw Patrol
-http://51.222.43.170:8001/cristiancl/cirtianiptv/203599
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51d-y9Hx3RL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Maratón", 24 Horas - Garfield
+http://tv.nousiptv.com:8080/live/Javier1120/112020/18577.ts
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Patrulla_de_cachorros_Serie_de_TV-237758475-large.jpg" group-title="Maratón", 24 Horas - Supercampeones
 http://iptvpremium.ink:55577/live/angelh3858/658587/187302.ts
@@ -1811,6 +1811,21 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/132445.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/sTg3BKkNueUbNPuIwoFLkxoR8iv.jpg" group-title="🎬 Acción: Bárbaros", S01 E06 Bárbaros
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/132446.mkv
 
+
+AVENTURAS
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E01 Ahsoka
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/166408.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E02 Ahsoka
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/166409.mkv
+
+
+
+
+
+
+
+
 - Historias
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MAAXSAAGAL/TELEPREMIUM/main/InShot_20230711_003045163.jpg" group-title="🎬 Historias: Lakers: Tiempo de victoria", Temporada 01
 http://magmas5.com:8000/series/saabj84/CNGUPDY6RA/136952.mkv
@@ -1935,6 +1950,21 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/114199.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xRI3mnYZRsAmbAnTfJKwuC4RldU.jpg" group-title="🎬 Documental: Alerta aeropuerto", S01 E05 Alerta aeropuerto
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/114200.mp4
+
+
+
+- Acosadore nocturno
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg" group-title="🎬 Documental: Acosador nocturno: A la caza de un asesino en serie", S01 E01 Acosador nocturno
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/134758.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg" group-title="🎬 Documental: Acosador nocturno: A la caza de un asesino en serie", S01 E02 Acosador nocturno
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/134759.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg" group-title="🎬 Documental: Acosador nocturno: A la caza de un asesino en serie", S01 E03 Acosador nocturno
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/134760.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg" group-title="🎬 Documental: Acosador nocturno: A la caza de un asesino en serie", S01 E04 Acosador nocturno
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/134761.mkv
+
+
 
 
 
