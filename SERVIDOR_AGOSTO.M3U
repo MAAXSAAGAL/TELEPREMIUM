@@ -113,6 +113,11 @@ https://ds1.sportea.online/stream/ch72/index.m3u8?token=c2VydmVyX3RpbWU9MTY5Mzc1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Liverpool x Aston Villa**
 https://content-asae1-up-2.uplynk.com/channel/0a579947a29b46afbaf3253b00a485df/d.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=espn_latamlive_es&ad.vast3=1&ad.vid=d16abe76-b312-4d0f-983f-fdab19cc45b2&ad.tfcd=0&ad.adUnit=/espn2_andina_sur/dish-sling/null&ad.pp=espn-core-ssai&ad.vip=212.224.86.94&ad.ppid=&ad.description_url=null&ss_req=1&ad.ssss=vdms&ad.hl=es&ad.npa=0&ad.msid=null&ad.an=espnapp&ad.same_scor=1&ad.pod=enabled&ad.mridx=enabled&ad.cust_params=chan=espn2_andina_sur%26authp=null%26nlsnAppID=null%26nlsnDevGrp=devgrp%2CUNWN%26vdm=live%26devOS=null%26devType=null%26plt=null%26swid=E0D14F7E-A3F8-49DE-C983-AC8D7829FC65%26unid=null%26isDnt=0%26isAutoplay=0%26isMute=0%26vps=null%26stp=vdms%26hip=0831ccb708e44b634cb989529fb5ffba626126037e61291f8ee25a197e66ff85%26lang=es%26ip=212.224.86.94%26genre=Soccer&eid=n171a&ct=c&tc=1&exp=1693750022&rn=96570632&geo=n171&sig=150533c34d83e66c5520874d35ebaa4fcf28bf0e3842c25be0c026d97f841794&pbs=c0cd2721736e46b4a02932a688e58ccb
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Arsenal x Man United**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166699.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Unión Berlin x RB Leipzig**
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166699.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Inter Miami x Nashville**
