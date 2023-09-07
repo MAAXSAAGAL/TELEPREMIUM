@@ -101,107 +101,24 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295805.ts
 - Locos por el fútbol
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/HLk240g.md.png" group-title="LOCOS POR EL DEPORTE", Programación Hoy
+#EXTINF:-1 tvg-logo="https://iili.io/HLk240g.md.png" group-title="LOCOS X EL DEPORTE", Programación Hoy
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
 
 EVENTOS
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Dep. Riestra x Chacarita**
-https://r1.livemodo.click/erg227.m3u8?m=W_smDad4xg_CwudkinDPVg&c=227&p=3137392e362e31362e3736&e=1693969307
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Austria x Moldavia**
+https://a56.azplay.me/hls/streama205977/index.m3u8?cst=decaec8ce135d6637209dc937d27e4b0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Paises Bajos x Grecia**
+https://ecloud.twolive.sbs:8089/hls/yQbtKipgdsk/index.m3u8?st=NIOfG3dtokUpCQWKWbbwRg&e=1694124706
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Los Angeles x Miami**
-https://ds1.sportea.online/stream/es9/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5Mzc5NDM4OSZoYXNoX3ZhbHVlPU5ETTJORFJpTXpSaU5qTTNZbUUyWTJVNVl6bGlNakl4TlRBMU5XSmtORE0mZXhwaXJ5PTE2OTM4MDUxODkmaXA9MTMyLjI1MS4zLjg4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Los Angeles x Miami**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166625.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Liverpool x Aston Villa**
-https://ds1.sportea.online/stream/ch72/index.m3u8?token=c2VydmVyX3RpbWU9MTY5Mzc1MDE2NCZoYXNoX3ZhbHVlPU0yRTVNRFF6WW1JM05UZGxNVFJrTWpoaFlqVXdaVEl4TnpsaFptVm1aRE0mZXhwaXJ5PTE2OTM3NjA5NjQmaXA9MTMyLjE5MS4xLjE2OQ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Liverpool x Aston Villa**
-https://content-asae1-up-2.uplynk.com/channel/0a579947a29b46afbaf3253b00a485df/d.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=espn_latamlive_es&ad.vast3=1&ad.vid=d16abe76-b312-4d0f-983f-fdab19cc45b2&ad.tfcd=0&ad.adUnit=/espn2_andina_sur/dish-sling/null&ad.pp=espn-core-ssai&ad.vip=212.224.86.94&ad.ppid=&ad.description_url=null&ss_req=1&ad.ssss=vdms&ad.hl=es&ad.npa=0&ad.msid=null&ad.an=espnapp&ad.same_scor=1&ad.pod=enabled&ad.mridx=enabled&ad.cust_params=chan=espn2_andina_sur%26authp=null%26nlsnAppID=null%26nlsnDevGrp=devgrp%2CUNWN%26vdm=live%26devOS=null%26devType=null%26plt=null%26swid=E0D14F7E-A3F8-49DE-C983-AC8D7829FC65%26unid=null%26isDnt=0%26isAutoplay=0%26isMute=0%26vps=null%26stp=vdms%26hip=0831ccb708e44b634cb989529fb5ffba626126037e61291f8ee25a197e66ff85%26lang=es%26ip=212.224.86.94%26genre=Soccer&eid=n171a&ct=c&tc=1&exp=1693750022&rn=96570632&geo=n171&sig=150533c34d83e66c5520874d35ebaa4fcf28bf0e3842c25be0c026d97f841794&pbs=c0cd2721736e46b4a02932a688e58ccb
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Arsenal x Man United**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166699.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Arsenal x Man United (EST) **
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166699.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Unión Berlin x RB Leipzig (EST)**
-https://webproxifiers.online/playlist/stream_e3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **Empoli x Juventus (EST)**
-https://livenflstream.xyz/playlist/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", HOY **OL x PSG (EST)**
-https://ds1.sportea.online/stream/ch2/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5Mzc2NjY4OSZoYXNoX3ZhbHVlPVpETTBaalZqT0dZNVltUmhNVFppTURCa1pUWmpNamM0TnpNd05qVXdOV1EmZXhwaXJ5PTE2OTM3Nzc0ODkmaXA9MTgxLjY2LjEzOC42NA%3D%3D
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Inter Miami x Nashville**
-https://py2.livemodo.click/FM0JHFFdwXIQE2S8Kk-Rww/1693468428/3133322e3235312e312e3331/ff20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Inter Miami x **
-https://sb3.livemodo.click/zs5RZc_LnIgUr_JVcEYkCQ/1693468299/3133322e3235312e312e3331/ff19/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Inter Miami x **
 https://fdaskj.1stream.one/scripts/MTI1NDI=/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Inter Miami x **
-https://py2.livemodo.click/D0EsBcsgZREbG-QIxv5QKw/1693468659/3133322e3235312e312e3331/ff20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Racing x Boca Juniors**
-https://r1.livemodo.click/pdg/KOVTg6LnZal5ASTmMfzYcw/616521/ebe7af25a1ef74ba/236818/3133322e3139312e332e323036/1693471316.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
-https://n10.aliflailaaliflaila.com:999/hls/espnsur.m3u8?md5=9IKu8UhwPJPqL4JcGAhBsg&expires=1693448280
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
-https://ecloud.welive.sbs:8089/hls/BXaQAanLKPZ/index.m3u8?st=9c75w1Zs-gpAhXk-0j_Cew&e=1693450104
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/08/31/Racing_Club_ARG_vs_Boca_J_20230831_1693434651342/ctr-all-complete.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/08/31/Racing_Club_ARG_vs_Boca_J_20230831_1693434651342/cmaf-cenc-ctr-7000K/7000_complete.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **RACING x BOCA JRS**
-https://ecloud.welive.sbs:8089/hls/BXaQAanLKPZ/index.m3u8?st=9c75w1Zs-gpAhXk-0j_Cew&e=1693450104
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Atlético Grau x Universitario**
-https://sb2.livemodo.click/LTtriFhLLkj67UwNA-trrw/1693190532/3138312e36362e3133392e3634/ff90/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Sheriff x Manchester City**
-https://storage.googleapis.com/pjxrbneiix/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Sheriff x Manchester City OP 2**
-https://wekppssx.azureedge.net/live/usa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Sheriff x Manchester City OP 3**
-https://content-asae1-up-1.uplynk.com/channel/d71e847cb6d1424a8288996384a8ebc1/g.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=espn_latamlive_es&ad.vast3=1&ad.vid=4cc8675c-a32a-4fca-b760-ea54d396c1a3&ad.tfcd=0&ad.adUnit=/espn2_colombia/dish-sling/null&ad.pp=espn-core-ssai&ad.vip=212.224.86.94&ad.ppid=&ad.description_url=null&ss_req=1&ad.ssss=vdms&ad.hl=es&ad.npa=0&ad.msid=null&ad.an=espnapp&ad.same_scor=1&ad.pod=enabled&ad.mridx=enabled&ad.cust_params=chan=espn2_colombia%26authp=null%26nlsnAppID=null%26nlsnDevGrp=devgrp%2CUNWN%26vdm=live%26devOS=null%26devType=null%26plt=null%26swid=E0D14F7E-A3F8-49DE-C983-AC8D7829FC65%26unid=null%26isDnt=0%26isAutoplay=0%26isMute=0%26vps=null%26stp=vdms%26hip=0831ccb708e44b634cb989529fb5ffba626126037e61291f8ee25a197e66ff85%26lang=es%26ip=212.224.86.94%26genre=Soccer&eid=n177a&ct=c&tc=1&exp=1693142402&rn=1811698729&geo=n177&sig=b245fc455847ba7811846c4f564848b4d886562b229adce46e223cda3fcbcf4a&pbs=55f56a7ed4034debb572bf2e18edb51pc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Newcastle x Liverpool**
-https://givemereddit.cloud/hls/skysport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Newcastle x Liverpool**
-https://wekppssx.azureedge.net/live/usa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Bayer Munich x Аugsburg**
-https://fdaskj.1stream.one/scripts/MTI0NTU=/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Bayer Munich x Аugsburg OP 2**
-https://a27.azplay.me/hls/streama212793/index.m3u8?cst=cbc6ac30432d78dc6aaafa346a28bd95
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Villarreal x Barcelona**
-https://a25.azplay.me/hls/streama211165/index.m3u8?cst=03e38ddd2c029d18c68ba29ae1342781
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Red Bull Miami x Inter Miami**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/166052.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Red Bull Miami x Inter Miami OP 2**
-https://n9.aliflailaaliflaila.com:999/hls/mlspasshd.m3u8?md5=XCHd4Vy0enLE0zRMACUgVQ&expires=1693103401
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", ** MLS League (VARIUS)**
-https://ecloud.welive.sbs:8089/hls/mJRSSDpi8bd/index.m3u8?st=E7mAN8quPmeYoarlDUaAHg&e=1693103995
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Alianza Lima x Alianza Atlético**
-http://tv.proyectox.vip:43201/live/c7audi847v/3b5rShYoDH/166152.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Alianza Lima x Alianza Atlético**
-https://sb2.livemodo.click/I43eOvkDHJMg5qcTbyzi1w/1693129184/3133322e3139312e332e313532/ff99/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Alianza Lima x Alianza Atlético**
-http://tv.proyectox.vip:43201/live/c7audi847v/3b5rShYoDH/166151.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Соrіnthіаns x Gоіаs**
-https://a36.azplay.me/hls/streama213223/index.m3u8?cst=7e9e2272c5a98e726e85c0e7bfa3a9db
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Internacional x River Plate**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Paranaense x Bolivar**
-https://r1.livemodo.click/pdg/U5j-MIbdpAuOf7_o9pu4JA/616521/ef722e2dd9824ebc/236818/3138312e36362e3135302e313030/1691568868.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Newell's vs. Corinthians**
-https://us.livenflstream.xyz/playlist/stream_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Evento 100**
 http://gotv.vip:8880/live/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/65643.ts
