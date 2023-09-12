@@ -745,10 +745,11 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?
 
 
 
-
-
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="Canales Chile", 24 horas (ESTABLE) | CHL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="Canales Chile", 24 horas | CHL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3532.ts
+
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="Canales Chile", Canal 13 | CHL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
 #EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="Canales Chile", La Red | CHL
