@@ -818,6 +818,18 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png" group-title="Canales España 🇪🇦", Trece Canal
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-1-en-DIRECTO-Online-en-vivo.png" group-title="Canales España 🇪🇦", ETB Canal 
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-2-en-DIRECTO-Online-en-vivo.png" group-title="Canales España 🇪🇦", ETB 2 Canal 
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180602/thc/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d89a2eb9.6065500915279940726316.jpg" group-title="Canales España 🇪🇦", La 1 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180616/suc/kisspng-la-2-logo-television-m3u-caldo-5b25d8447c9009.7508881715292068525102.jpg" group-title="Canales España 🇪🇦", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+
 - Canales USA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA", ID Discovery | USA
