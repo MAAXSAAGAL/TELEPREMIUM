@@ -829,6 +829,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180616/suc/kisspng-la-2-logo-television-m3u-caldo-5b25d8447c9009.7508881715292068525102.jpg" group-title="Canales España 🇪🇦", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Canales España 🇪🇦", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 
 - Canales USA
 
