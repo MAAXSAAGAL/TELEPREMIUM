@@ -812,6 +812,12 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="Canales México 🇲🇽", GalaVision | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
 
+
+
+- CANALES ESPAÑA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png" group-title="Canales España 🇪🇦", Trece Canal
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+
 - Canales USA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Zapping USA", ID Discovery | USA
