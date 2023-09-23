@@ -221,9 +221,12 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/148889.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159457.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 2 | PE
-http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
+https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 3 | PE
+http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 4 | PE
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/298922
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 OPC. 1 | PE
