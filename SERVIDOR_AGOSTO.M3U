@@ -1180,6 +1180,10 @@ http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 PEL - Aventura", Proyecto Extracción (2023)
 http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 PEL - Acción", 007: Sin tiempo para morir (2021)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149251.mkv
+
+
 BELICAS
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="🍿 PEL - Bélicas", Siete reyes deben morir (2023)
@@ -1234,10 +1238,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/98457.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 PEL - Historias", 1917 (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/98457.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 PEL - Bélicas", Wunderland (2019)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 PEL - Bélicas", Wunderland (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 PEL - Acción", Wunderland (2019)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 PEL - Acción", Wunderland (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/v5ZCVgxlFmlpFnR9DWVUkOVw4hW.jpg" group-title="🍿 PEL - Bélicas", Hasta el último hombre (2016)
