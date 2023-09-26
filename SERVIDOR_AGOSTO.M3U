@@ -1751,6 +1751,11 @@ https://download940.mediafire.com/rcr042soecsgUxq_q8g0dm9WCKyTNZYMRtqFtfVJ7N8e9M
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/New_Amsterdam_Serie_de_TV-155126236-large.jpg" group-title="Series: Drama - HBO, NETFLIX, DISNEY+", Prueba5
 https://app.box.com/s/56rz2ar2rn1mc09ss4fs5uak5b0qrzu0
 
+REALITY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/uh2NbTkUheENmBlUs7Kwb5EaAXQ.jpg" group-title="🎬 Reality: La casa de los famosos", S01 E01 La casa de los famosos
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2168964.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/uh2NbTkUheENmBlUs7Kwb5EaAXQ.jpg" group-title="🎬 Reality: ¡A ordenar con Marie Kondo!", S01 E02 ¡A ordenar con Marie Kondo!
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/558655.mp4
 - Series familiares
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zc1nMTDGRxazYawj4nbETaEpX60.jpg" group-title="🎬 Animación: Maya y los tres", S01 E01 Maya y los tres
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/151010.mkv
@@ -1896,12 +1901,31 @@ AVENTURAS
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/166408.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E02 Ahsoka
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/166409.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E03 Ahsoka
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2187335.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E04 Ahsoka
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2187336.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg" group-title="🎬 Aventura: Ahsoka", S01 E05 Ahsoka
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2187337.mp4
 
 
-
-
-
-
+LA VUELTA AL MUNDO EN 80 DIAS
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E01 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576809.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E02 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576810.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E03 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576811.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E04 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576812.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E05 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576813.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E06 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576814.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E07 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576815.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hoXyFohqrKiqJTkq7Ci7yriBRa.jpg" group-title="🎬 Aventura: La vuelta al mundo en 80 días", S01 E08 La vuelta al mundo en 80 días
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/576816.mp4
 
 
 - Historias
@@ -2106,6 +2130,24 @@ http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2185599.mp4
 http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2185600.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg" group-title="🎬 Drama: Operativo: Lioness", S01 E06 Operativo: Lioness
 http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2185601.mp4
+
+Isla Brava
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E01 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166728.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E02 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166729.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E03 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166730.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E04 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166731.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E05 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166732.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E06 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166733.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E07 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166734.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jesDbAAKHST2ShNnOX2pjGm83je.jpg" group-title="🎬 Drama: Isla brava", S01 E08 Isla brava
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/2166735.mp4
 
 
 - Un futuro desafiante
