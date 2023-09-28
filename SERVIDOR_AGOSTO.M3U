@@ -106,6 +106,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157249.ts
 
 
 EVENTOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", 16/09 **Inter Miami x Houston**
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_240p/chunks.m3u8?p=53&s=1695857442&e=1695943842&cf=1695943842&h=c8738c10c78c96921dea9a42323c00de
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", 16/09 **Sevilla x Almeria**
 https://ecloud.welive.sbs:8089/hls/BXaQAanLKPZ/index.m3u8?st=uE83dFe7P0QBcTRd_XaKjw&e=1695761179
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", 16/09 **SC x U**
