@@ -711,13 +711,16 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151648.ts
 https://www.youtube.com/user/CanalPakapaka/live
 
 - Religión
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Canales Religiosos", MovieFe
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", BHTV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Canales Religiosos", MovieFe
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w427647087.m3u8
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg" group-title="Canales Religiosos", TeleVida Network
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg" group-title="TV | RELIGION", TeleVida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w449945295.m3u8
+
 - Canales Argentina
 #EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="Canales Argentina", Agrotendencia | ARG
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -797,6 +800,11 @@ Zapping Ecuador
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/0R_pYiWwsbRZPAV2RxXeMMiGcts=/280x159/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="Zapping Ecuador", ECDF | ECU
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145495.ts
 
+- CANALES PARAGUAY
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="TV | PARAGUAY", Unicanal
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Venus-Media-TV-Paraguay-en-vivo-Online.png" group-title="TV | PARAGUAY", Venus Media
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1707481682.m3u8
 
 - Canal VZ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-Vepaco-TV.png" group-title="Canales Venezuela", Vepaco TV | VEN
@@ -840,6 +848,18 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Canales España 🇪🇦", 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+CANALES PUERTO RICO
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-1_746.png" group-title="TV | PUERTO RICO", Wapa TV
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMZ3CjtPuXc/Xna-rB3UTFI/AAAAAAAAAzs/Y_vUYkkddNkCVryV9odGTLUGd4JdPZu8ACLcBGAsYHQ/s1600/Imagen%2B160.png" group-title="TV | PUERTO RICO", Wapa 2 Deportes
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/09/Telemundo-PR-1-1.png" group-title="TV | PUERTO RICO", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="TV | PUERTO RICO", Tiva TV
+https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
+
 
 
 - Canales USA
@@ -920,6 +940,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Canales USA 🇺🇲", Estrella TV | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
+
+
+- CANALES PUERTO RICO
 
 
 
