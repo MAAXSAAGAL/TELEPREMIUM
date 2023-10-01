@@ -1,26 +1,22 @@
 #EXTM3U
 
 CANAL LATINA OPCIONES
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="Canales Nacionales", Latina TV OP 1 | PE
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3324.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="Canales Nacionales", Latina TV OP 2 | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERÚ", Latina TV (EST)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxYC4Bv/Picsart-23-07-27-17-03-58-148.png" group-title="Canales Nacionales", Latina TV OP 3 | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERÚ", Latina TV OP 2 | PE
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3324.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxYC4Bv/Picsart-23-07-27-17-03-58-148.png" group-title="TV | PERÚ", Latina TV OP 3 | PE
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/HZ3xJ8G.md.png" group-title="Canales Nacionales", Latina TV OP 4 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HZ3xJ8G.md.png" group-title="TV | PERÚ", Latina TV OP 4 | PE
 http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", America TV OP 1 | PE
-http://iptvpremium.ink:55577/live/angelh3858/658587/162908.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", America TV OP 2 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV OP 2 | PE
 http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/8983
 
 CANAL AMERICA TV HD / SD
-#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="Canales Nacionales", América TV OP 3 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 3 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3318.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Canales Nacionales", América TV OP 4 | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", América TV OP 4 | PE
 http://magmas5.com:8000/rances123/9IFBBCRBIX/3319
 
 PANAMERICANA TV HD / SD
