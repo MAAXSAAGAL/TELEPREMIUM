@@ -675,45 +675,88 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2013.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Documentales / Culturales",  ID Discovery 
 https://video-weaver.rio04.hls.ttvnw.net/v1/playlist/CqsF1askl4kyL_fMTfwnk_TuQ-nvFaDYp4ufTVqmlRWnGtqTwdmJMpQbt_fqW6AZCOFtBFA7tWnj7SqmCE19sliczEvit8taFormntn38U7EeF6OaJHKD-0yMHtdp987Z0KO1BRFd38AZQ0n-hBTSAk41neKGokNeNKhd-N9AEABcC0njXv88rms1fKycSk2A0PohsqV83KfAD28W2bAuGm38uL_yr0czUgmUK5eprPHeWRo146nZqNgWCaAUz8SKrzi5bSYTeTp2FXBhkxl_hmSpYHQpPucbODplTqMkc9YtDnNuc1DRImOxISIzmKHElbHnjCQNKYeZDSaPJyfDSI5-W9C_Wujb2ODp9tUhm7oXupyMftabOmhQTXpKz7_xJ0rIc6cyATx-DIlvkNjbRc0oAFe9mQJOdfXcVPwYZcIeXGxe1sENwHfX3mP0xec2Sk4B-QF802gMwfq4Hd7uWiONL9LtB6MTOJ4Xr0IdUoT7Yb2FprnrR2iAgGdWK44r0KU04hlwW6zpMwjhOPPjG_5DGu7zFo75kC2FC6f4wkz3KtA2CJusCr4SC8QkJYtHwEYWDB6J-fSHLfzXvfpW19hKgr1vbiuqkiU46IVPuMYaWaI9uNdKS6JvEpK8cuPPU4vg_hgnZxb-X7RBP0JEcDEYbYZFGXFecqtvJ5LaU5jDBTtUGkveFcgdGz1YPd958kX07h-kzM8y604gqzmGZK977DmnfZXHbYeXRwALdo6PQS2T90bkci_x-a6r9WLACC0zHSpmORFAskjupfmw7CdScNrYsYgjtWtfzvNfjtFDUqvAW-6Jy-ikqDW68iaH7Tne8Lu7GiG8ixrbP0tB62O3NcDInBp5NB16rRqoNcx5bqWzwqs473LKeg56awCBuLImLakETMBbi9r1RkaDO62tKLC7DyG-T8yQSABKglldS13ZXN0LTIwuQc.m3u8
 
+MARATON
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg" group-title="MARATON 24/7", Hey Arnold!
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129337.ts
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_Picapiedra_Serie_de_TV-932909466-large.jpg" group-title="MARATON 24/7", Los Picapiedra
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129349.ts
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_padrinos_maagicos_Serie_de_TV-544568143-large.jpg" group-title="MARATON 24/7", Scooby Doo
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3385.ts
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_praincipe_de_Bel_Air_Serie_de_TV-511491709-large.jpg" group-title="MARATON 24/7", El Príncipe del Rap
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161032.ts
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg" group-title="MARATON 24/7", Familia PLuche
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/152821.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Yx6trt/94d6cab5674a226759b860861c538baf.jpg" group-title="MARATON 24/7", Harry Potter
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129377.ts
+
+#EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2015/07/disneymovies_feat_021.png" group-title="MARATON 24/7", Disney Movies
+http://51.222.43.170:8001/cristiancl/cirtianiptv/490
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/375/dest_3.jpg" group-title="MARATON 24/7", Bob Esponja
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129349.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-SLM_eZjOppg/VElBFKNBHPI/AAAAAAAAAkc/6inpQjxC6fs/s1600/cars-Posters_car.jpg" group-title="MARATON 24/7", Cars
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145899.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gZ3rXq/images-1.jpg" group-title="MARATON 24/7", Caso Cerrado
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160035.ts
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51d-y9Hx3RL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="MARATON 24/7", Garfield
+http://tv.nousiptv.com:8080/live/Javier1120/112020/18577.ts
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Patrulla_de_cachorros_Serie_de_TV-237758475-large.jpg" group-title="MARATON 24/7", Supercampeones
+http://iptvpremium.ink:55577/live/angelh3858/658587/187302.ts
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="MARATON 24/7", Plim Plim
+http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="MARATON 24/7", Hora de Aventura
+http://iptvpremium.ink:55577/live/angelh3858/658587/194780.ts
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="MARATON 24/7", Pucca
+http://iptvpremium.ink:55577/live/angelh3858/658587/194803.ts
 
 
 KIDS
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="Kids", Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="TV | INFANTIL", Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="Kids", Cartoonito Kids HD
+#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="TV | INFANTIL", Cartoonito Kids HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149686.ts
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="Kids", Disney Junior HD
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="TV | INFANTIL", Disney Junior HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149678.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Kids", Disney Channel HD
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="TV | INFANTIL", Disney Channel HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149676.ts
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="Kids", Nick Junior HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="TV | INFANTIL", Nick Junior HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34779
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="TV | INFANTIL", Cartoon Network
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149673.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Kids", Cartoon Network OP 2
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="TV | INFANTIL", Cartoon Network OP 2
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Kids", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="TV | INFANTIL", Nickelodeon HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3023.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Kids", Teen Nick HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="TV | INFANTIL", Teen Nick HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34777
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04d03150062725.58c6b3dc154be.jpg" group-title="Kids", Paka Paka | ARG
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04d03150062725.58c6b3dc154be.jpg" group-title="TV | INFANTIL", Paka Paka | ARG
 http://2.magmas5.com:8000/rances123/9IFBBCRBIX/3537
 
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Kids", Dreamworks HD
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="TV | INFANTIL", Dreamworks HD
 http://premiumultra.xyz:8080/live/72gagu82fu82du54/m45emma93m/60201.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Kids", Bitme HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="TV | INFANTIL", Bitme HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151648.ts
 
 - *PAKA PAKA
 https://www.youtube.com/user/CanalPakapaka/live
 
 - Religión
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", BHTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="TV | RELIGION", BHTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -949,53 +992,6 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
 
-MARATON
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg" group-title="Maratón", 24 Horas - Hey Arnold!
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129337.ts
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_Picapiedra_Serie_de_TV-932909466-large.jpg" group-title="Maratón", 24 Horas - Los Picapiedra
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129349.ts
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_padrinos_maagicos_Serie_de_TV-544568143-large.jpg" group-title="Maratón", 24 Horas - Scooby Doo
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3385.ts
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_praincipe_de_Bel_Air_Serie_de_TV-511491709-large.jpg" group-title="Maratón", 24 Horas - El Príncipe del Rap
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161032.ts
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg" group-title="Maratón", 24 Horas - Familia PLuche
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/152821.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Yx6trt/94d6cab5674a226759b860861c538baf.jpg" group-title="Maratón", 24 Horas - Harry Potter
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129377.ts
-
-#EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2015/07/disneymovies_feat_021.png" group-title="Maratón", 24 Horas - Disney Movies
-http://51.222.43.170:8001/cristiancl/cirtianiptv/490
-
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/375/dest_3.jpg" group-title="Maratón", 24 Horas - Bob Esponja
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/129349.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-SLM_eZjOppg/VElBFKNBHPI/AAAAAAAAAkc/6inpQjxC6fs/s1600/cars-Posters_car.jpg" group-title="Maratón", 24 Horas - Cars
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145899.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gZ3rXq/images-1.jpg" group-title="Maratón", 24 Horas - Caso Cerrado
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160035.ts
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51d-y9Hx3RL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Maratón", 24 Horas - Garfield
-http://tv.nousiptv.com:8080/live/Javier1120/112020/18577.ts
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Patrulla_de_cachorros_Serie_de_TV-237758475-large.jpg" group-title="Maratón", 24 Horas - Supercampeones
-http://iptvpremium.ink:55577/live/angelh3858/658587/187302.ts
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="Maratón", 24 Horas - Plim Plim
-http://51.222.43.170:8001/cristiancl/cirtianiptv/207821
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="Maratón", 24 Horas - Hora de Aventura
-http://iptvpremium.ink:55577/live/angelh3858/658587/194780.ts
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_payaso_Plim_Plim_Un_haeroe_del_corazaon_Serie_de_TV-377689631-large.jpg" group-title="Maratón", 24 Horas - Pucca
-http://iptvpremium.ink:55577/live/angelh3858/658587/194803.ts
-
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
 https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
@@ -1015,7 +1011,7 @@ http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2188781.mp4
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2185587.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="ESTRENOS 🗓️", Contrarreloj (2023)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2187186.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="ESTRENOS 🗓️", Contrarreloj (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="ESTRENOS 🗓️", Contrarreloj (SUB) (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/168737.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ulsz9HNn3V7mbP1fzvRUqC3FaTT.jpg" group-title="ESTRENOS 🗓️", Snoopy: La unica e inigualable Marcie (2023)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2186031.mkv
