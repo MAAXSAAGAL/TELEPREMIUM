@@ -763,82 +763,77 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w427647087.m3u8
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w449945295.m3u8
 
 - Canales Argentina
-#EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="Canales Argentina", Agrotendencia | ARG
+#EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="TV | ARGENTINA", Agrotendencia | ARG
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.2086347220_AmricaTucumn(2019-01).png.be2064fffb0bcb360d568ab22913683f.png" group-title="Canales Argentina", América Tucumán | ARG
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.2086347220_AmricaTucumn(2019-01).png.be2064fffb0bcb360d568ab22913683f.png" group-title="TV | ARGENTINA", América Tucumán | ARG
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s210/aunar-2022.png" group-title="Canales Argentina", Aunar | ARG
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s210/aunar-2022.png" group-title="TV | ARGENTINA", Aunar | ARG
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1https://www.lanoticia1.com/sites/default/files/bvc.png" group-title="Canales Argentina", BVC | ARG
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1https://www.lanoticia1.com/sites/default/files/bvc.png" group-title="TV | ARGENTINA", BVC | ARG
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleuhttps://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Canales Argentina", C5N | ARG
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Canales Argentina", La Nación+| ARG
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | ARGENTINA", La Nación+| ARG
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Canales Argentina", A24 | ARG
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="TV | ARGENTINA", A24 | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146369.ts
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="Canales Argentina", Canal de la ciudad | ARG
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="TV | ARGENTINA", Canal de la ciudad | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3562.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3559.ts
 
-#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png" group-title="Canales Argentina", Telesur | ARG
+#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png" group-title="TV | ARGENTINA", Telesur | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3545.ts
 
 - Canales Chile
-#EXTINF:-1 tvg-logo=":https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="Canales Chile", Chile Visión | CHL
+#EXTINF:-1 tvg-logo=":https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="TV | CHILE", Chile Visión
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135058.ts
 
 TVN3
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ID_TVN_3_2023_1.jpg/revision/latest?cb=20230726212606&path-prefix=es" group-title="Canales Chile", TVN3 | CHL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ID_TVN_3_2023_1.jpg/revision/latest?cb=20230726212606&path-prefix=es" group-title="TV | CHILE", TVN3 | CHL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?
 
-
-
-
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="Canales Chile", 24 horas (ESTABLE) | CHL
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas (ESTABLE) | CHL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="Canales Chile", 24 horas | CHL
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas | CHL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3532.ts
 
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="Canales Chile", Canal 13 | CHL
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="TV | CHILE", Canal 13
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="Canales Chile", La Red | CHL
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="TV | CHILE", La Red
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3529.ts
 
 - Canales Colombia
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="Canales Colombia", Canal 1 | COL
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="TV | COLOMBIA", Canal 1
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3570.ts
-#EXTINF:-1 tvg-logo=":https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="Canales Colombia", 90 minutos | COL
+#EXTINF:-1 tvg-logo=":https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", 90 minutos | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135040.ts
 
-#EXTINF:-1 tvg-logo=":https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png" group-title="Canales Colombia", CTV | COL
+#EXTINF:-1 tvg-logo=":https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png" group-title="TV | COLOMBIA", CTV | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140371.ts
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Canales Colombia", Caracol TV | COL
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="TV | COLOMBIA", Caracol TV | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157248.ts
 
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Canales Colombia", Caracol TV OP 2 | COL
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="TV | COLOMBIA", Caracol TV OP 2 | COL
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 
 - Canal Ecuador
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="Canales Ecuador 🇪🇨", Ecuavisa | ECU
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="TV | ECUADOR", Ecuavisa
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157405.ts
-#EXTINF:-1 tvg-logo=":https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="Canales Ecuador 🇪🇨", Canal Uno | ECU
+#EXTINF:-1 tvg-logo=":https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="TV | ECUADOR", Canal Uno | ECU
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online.png" group-title="Canales Ecuador 🇪🇨", TeleAmazonas
+#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online.png" group-title="TV | ECUADOR", TeleAmazonas
 http://2.magmas5.com:8000/ntxplay3@/HBRH13DNXH/33
 
-
-
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Canales Ecuador 🇪🇨", Gamavisión | ECU
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="TV | ECUADOR", Gamavisión | ECU
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145740.ts
 
 Zapping Ecuador
 
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/0R_pYiWwsbRZPAV2RxXeMMiGcts=/280x159/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="Zapping Ecuador", ECDF | ECU
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/0R_pYiWwsbRZPAV2RxXeMMiGcts=/280x159/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="TV | ECUADOR", ECDF | ECU
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145495.ts
 
 - CANALES PARAGUAY
@@ -848,46 +843,46 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1707481682.m3u8
 
 - Canal VZ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-Vepaco-TV.png" group-title="Canales Venezuela", Vepaco TV | VEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-Vepaco-TV.png" group-title="TV | VENEZUELA", Vepaco TV
 https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 
 - Canal Brasil
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-Vepaco-TV.png" group-title="Canales Brasil 🇧🇷", Globo TV | BRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-Vepaco-TV.png" group-title="TV | BRASIL", Globo TV | BRA
 http://2.magmas5.com:8000/ntxplay3@/HBRH13DNXH/161117
 
-#EXTINF:-1 tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Globo-News-2022-New-900x0.png" group-title="Canales Brasil 🇧🇷", Globo News | BRA
+#EXTINF:-1 tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Globo-News-2022-New-900x0.png" group-title="TV | BRASIL", Globo News | BRA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/5133.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="Canales Brasil 🇧🇷", SBT | BRA
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV | BRASIL", SBT | BRA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161611.ts
 
 - Canal MX
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Canales México 🇲🇽", Estrella TV | MEX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV | MEXICO", Estrella TV
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="Canales México 🇲🇽", GalaVision | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="TV | MEXICO", GalaVision | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
 
 
 
 - CANALES ESPAÑA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png" group-title="Canales España 🇪🇦", Trece Canal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png" group-title="TV | ESPAÑA", Trece Canal
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-1-en-DIRECTO-Online-en-vivo.png" group-title="Canales España 🇪🇦", ETB Canal 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-1-en-DIRECTO-Online-en-vivo.png" group-title="TV | ESPAÑA", ETB Canal 
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-2-en-DIRECTO-Online-en-vivo.png" group-title="Canales España 🇪🇦", ETB 2 Canal 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2023/04/ETB-2-en-DIRECTO-Online-en-vivo.png" group-title="TV | ESPAÑA", ETB 2 Canal 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180602/thc/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d89a2eb9.6065500915279940726316.jpg" group-title="Canales España 🇪🇦", La 1 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180602/thc/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d89a2eb9.6065500915279940726316.jpg" group-title="TV | ESPAÑA", La 1 
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180616/suc/kisspng-la-2-logo-television-m3u-caldo-5b25d8447c9009.7508881715292068525102.jpg" group-title="Canales España 🇪🇦", La 2
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180616/suc/kisspng-la-2-logo-television-m3u-caldo-5b25d8447c9009.7508881715292068525102.jpg" group-title="TV | ESPAÑA", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Canales España 🇪🇦", 24h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV | ESPAÑA", 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 CANALES PUERTO RICO
@@ -973,13 +968,13 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/134702.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Zapping USA", ESPN | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148989.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/300px-Game_Show_Network_2018.svg.png" group-title="Canales USA 🇺🇲", Game Show | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/300px-Game_Show_Network_2018.svg.png" group-title="TV | USA LATINO", Game Show | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148833.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="Canales USA 🇺🇲", GalaVision | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="TV | USA LATINO", GalaVision | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/147076.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Canales USA 🇺🇲", Estrella TV | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV | USA LATINO", Estrella TV | USA
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
