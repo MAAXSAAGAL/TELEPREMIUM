@@ -1024,8 +1024,7 @@ http://tv.nousiptv.com:8080/movie/Javier1120/112020/1173196.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/8cUI2Z4YVfZU4tnSmThFcy9TEbh.jpg" group-title="ESTRENOS 🗓️", Barbie (2023)
 http://iptvpremium.ink:55577/movie/angelh3858/658587/199599.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mN8TsVWd01qjnz9f4DYkw2LPJH6.jpg" group-title="ESTRENOS 🗓️", Flash (2023)
-https://archive.org/download/th3Fl45h.-2023.720p-dual-lat/The.Flash.2023.720p-Dual-Lat.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9VIL1A787VntKNXbvsAQYlEnVAq.jpg" group-title="ESTRENOS 🗓️", Soltera, casada, viuda, divorciada (2023)
 http://iptvpremium.ink:55577/movie/angelh3858/658587/194880.mp4
@@ -1148,10 +1147,36 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139907.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/pStzjTRqeU7QdJYsoofJEfFvaNz.jpg" group-title="SAGAS EPICAS ⭐", Robocop 4 (2014)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139905.mp4
 
+- BEETHOVEN
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/e8TpSf9snnaHP0C8OmLMfOcVouF.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 1 (1992)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149397.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qTbzNp39fTwDN1mU8bG6WGU7QQv.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 2 (1993)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149399.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/pNFfOfBwyEQAN0UO0aG2PXxK86j.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 3: De excursión con la familia (2000)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149401.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tkXGcQk38UIY8F7HDWUHZeNxV1q.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 4: Enredo en la familia (2001)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149403.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tyV3eGe7WmRr7Dai2BeWq33J1df.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 5: El perro buscatesoros (2003)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149405.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n6BFaobIdGWQhYI1uiq9gmY4FBq.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 6: La gran oportunidad (2008)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149407.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/srPPRsUn76wMcqkdtmrcOmn8OYD.jpg" group-title="SAGAS EPICAS ⭐", Beethoven 7: El tesoro del pirata (2014)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149411.mkv
+
 
 - Transformers 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-277223479-large.jpg" group-title="SAGAS EPICAS ⭐", Transformers: El despertar de las bestias (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162752.mkv
+
+
+
 
 - John Wick
 
@@ -1202,6 +1227,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100420.mp4
 http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 PEL - Aventura", Proyecto Extracción (2023)
 http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mN8TsVWd01qjnz9f4DYkw2LPJH6.jpg" group-title="PEL - Acción", Flash (2023)
+https://archive.org/download/th3Fl45h.-2023.720p-dual-lat/The.Flash.2023.720p-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mN8TsVWd01qjnz9f4DYkw2LPJH6.jpg" group-title="PEL - Aventura", Flash (2023)
+https://archive.org/download/th3Fl45h.-2023.720p-dual-lat/The.Flash.2023.720p-Dual-Lat.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vfUuGtStpihETe49g3KbYR0n0Q5.jpg" group-title="🍿 PEL - Acción", 007: Sin tiempo para morir (2021)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149251.mkv
