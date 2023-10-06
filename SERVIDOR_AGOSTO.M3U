@@ -771,7 +771,7 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1https://www.lanoticia1.com/sites/default/files/bvc.png" group-title="TV | ARGENTINA", BVC | ARG
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleuhttps://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Canales Argentina", C5N | ARG
+#EXTINF:-1 tvg-logo="https://blogger.googleuhttps://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="TV | ARGENTINA", C5N | ARG
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | ARGENTINA", La Nación+| ARG
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
@@ -2890,12 +2890,10 @@ http://king.viviotv.xyz:80/series/andres1/andres1/1054832.mkv
 http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/567210.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rkHmdeXJnbY8ZOKznwXDiPFF7Uj.jpg" group-title="🎬 Sci-Fi & Fantasy: 22.11.63", S01 E01 22.11.63
-
+http://magi-stv.net:8080/series/BUZZTVAK/E9ZG2U/547750.mkv
 
 
 - Invasión secreta
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta"
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/162755.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1uFsZqbI7jatsMyz2jS48mXkG9X.jpg" group-title="🎬 Sci-Fi & Fantasy: Invasión secreta", Episodio 02
