@@ -1245,6 +1245,33 @@ http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135686.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/4KoZ4uSDf2zt9xQWXZq8OWImBu1.jpg" group-title="🍿 PEL - Acción", Alma de héroe (2019)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135661.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="PEL - Acción", Miniespías: Armagedón (2018)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2188543.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="PEL - Familiares", Miniespías: Armagedón (2018)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2188543.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mIpWrkNVWDnKr8CDi8N4zIuOUMx.jpg" group-title="PEL - Acción", La misión final (2018)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135675.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jfvBGYkwaZt6zVvza4vdfP9mCMx.jpg" group-title="PEL - Acción", Ojos grises (2018)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2120819.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jfvBGYkwaZt6zVvza4vdfP9mCMx.jpg" group-title="PEL - Ficción & Fantasia", Ojos grises (2018)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2120819.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/92a6R4NgNqXpiDpZb9zdCstPx86.jpg" group-title="PEL - Acción", Punto de control (2017)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135687.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="PEL - Acción", Dunkerque (2017)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135728.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="PEL - Bélicas", Dunkerque (2017)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135728.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fkidRhD8qwTPqSIGTFpdBIFYnJJ.jpg" group-title="PEL - Acción", Atentado en Paris (2016)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135667.mp4
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/w1pGYNa8w9UAlb6gVfW1qWx9jvq.jpg" group-title="🍿 PEL - Acción", Prisionero 99 (2017)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135684.mkv
 
@@ -1259,6 +1286,15 @@ http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135680.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/3eycDWupJWpAF7Pu8TIxNxGrS0Z.jpg" group-title="🍿 PEL - Acción", Baby: El aprendiz del crimen (2017)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135676.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/l8bKC9HUgDj5EHGlW9qKBWCQZTz.jpg" group-title="PEL - Acción", Seis balas (2012)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135637.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/l8bKC9HUgDj5EHGlW9qKBWCQZTz.jpg" group-title="PEL - Crimen", Seis balas (2012)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135637.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/l8bKC9HUgDj5EHGlW9qKBWCQZTz.jpg" group-title="PEL - Acción", Seis balas (2012)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135637.mp4
 
 
 BELICAS
